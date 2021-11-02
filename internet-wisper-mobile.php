@@ -270,6 +270,17 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
+                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".35">
+                        <div class="single-feature-img">
+                            <img src="img/icons/data.svg" alt="" class="svg">
+                        </div>
+                        <div class="single-feature-content">
+                            <h4>Payment and Enjoy Data</h4>
+                            <p>Make payment with your debit card at no added cost. After payment, you can start surfing the internet.</p>
+                        </div>
+                    </div>
+                </div>
+<!--                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".8">
                         <div class="single-feature-img">
                             <img src="img/icons/access.svg" alt="" class="svg">
@@ -279,7 +290,7 @@
                             <p>Make payment with your debit card at no added cost. After payment, you can start surfing the internet.</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
             <!-- End of Packages Includes -->
         </div>
