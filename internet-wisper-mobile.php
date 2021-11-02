@@ -254,7 +254,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Visit Website</h4>
-                            <p>Visit <a href="https://mobile.wisper.ng/buy"</a> on any of your devices.</p>
+                            <p>Visit <a href="https://mobile.wisper.ng/buy">mobile.wisper.ng</a> on any of your devices.</p>
                         </div>
                     </div>
                 </div>
