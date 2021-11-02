@@ -1,3 +1,28 @@
+<!-- Subscription -->
+<section class="pt-120 pb-120">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-5">
+                    <div class="section-title pb-0" data-animate="fadeInUp" data-delay=".1">
+                        <h2>Sign Up to Newsletter</h2>
+                        <p class="mb-0">Be the first to know about our new launches, product packages and services by signing up for our newsletter.</p>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-7">
+                    <!-- Subscription form -->
+                    <div class="subscription-form" data-animate="fadeInUp" data-delay=".4">
+                        <form class="parsley-validate" action="https://themelooks.us13.list-manage.com/subscribe/post?u=79f0b132ec25ee223bb41835f&amp;id=f4e0e93d1d" method="post" name="mc-embedded-subscribe-form" target="_blank">
+                            <input type="email" name="EMAIL" class="theme-input-style" placeholder="Enter your e-mail address" required>
+                            <button class="btn" type="submit">Subscribe Now</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Subscription -->
+
+
 <!-- Brands -->
 <section class="light-bg pt-80 pb-50">
         <div class="container">
