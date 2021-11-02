@@ -90,7 +90,6 @@
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>Home Packages</h2>
                         <p>Starting at ₦6,600/mo. you can now connect your family and enjoy unlimited streaming and many more</p>
-                        <p>Shared Internet Connection</p>
                     </div>
                 </div>
             </div>
@@ -108,6 +107,7 @@
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
+                            <li>Shared Internet Connection</li>
                         </ul>
                         <p><sup>₦</sup>6,600 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
@@ -125,6 +125,7 @@
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
+                            <li>Shared Internet Connection</li>
                         </ul>
                         <p><sup>₦</sup>12,500 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
@@ -141,6 +142,7 @@
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
+                            <li>Shared Internet Connection</li>
                         </ul>
                         <p><sup>₦</sup>21,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
@@ -158,7 +160,6 @@
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>SME Packages</h2>
                         <p>Starting at N25,000/mo. connect all your staff and get work done with ease and pace to fast and reliable internet service.</P>
-                        <p>Shared Internet Connection</p>
                     </div>
                 </div>
             </div>
@@ -176,6 +177,7 @@
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
+                            <li>Shared Internet Connection</li>
                         </ul>
                         <p><sup>₦</sup>25,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
@@ -193,6 +195,7 @@
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
+                            <li>Shared Internet Connection</li>
                         </ul>
                         <p><sup>₦</sup>38,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
@@ -209,11 +212,13 @@
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
+                            <li>Shared Internet Connection</li>
                         </ul>
                         <p><sup>₦</sup>56,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
+                <p>Installation cost: ₦ 39,000 which includes Radio, Router & Cables</p>
             </div>
             <!-- End of Packages -->
             
@@ -328,6 +333,7 @@
                         </div>
                     </div>
                 </div>
+                <p>Installation cost: ₦ 65,500 which includes Radio, Router & Cables</p>
             </div>
             <!-- End of Packages Includes -->
         </div>
