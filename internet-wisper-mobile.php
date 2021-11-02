@@ -253,8 +253,8 @@
                             <img src="img/icons/ftp.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Own FTP Server</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>Network and Plans</h4>
+                            <p>Enter your Phone number, select a data plan and enter your fullname and Email Address.</p>
                         </div>
                     </div>
                 </div>
@@ -264,8 +264,8 @@
                             <img src="img/icons/upgrade.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Upgrade or Downgrade</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>Payment and Enjoy Data</h4>
+                            <p>Make payment with your debit card at no added cost. After payment, you can start surfing the internet.</p>
                         </div>
                     </div>
                 </div>
@@ -275,12 +275,12 @@
                             <img src="img/icons/data.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>No Hard Data Limit</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>Payment and Enjoy Data</h4>
+                            <p>Make payment with your debit card at no added cost. After payment, you can start surfing the internet.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+<!--                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".5">
                         <div class="single-feature-img">
                             <img src="img/icons/lock.svg" alt="" class="svg">
@@ -312,7 +312,7 @@
                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
             <!-- End of Packages Includes -->
         </div>
