@@ -253,8 +253,8 @@
                             <img src="img/icons/ftp.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Network and Plans</h4>
-                            <p>Enter your Phone number, select a data plan and enter your fullname and Email Address.</p>
+                            <h4>Visit Website</h4>
+                            <p>Visit <a href="https://mobile.wisper.ng/buy"</a> on any of your devices.</p>
                         </div>
                     </div>
                 </div>
@@ -264,8 +264,8 @@
                             <img src="img/icons/upgrade.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Payment and Enjoy Data</h4>
-                            <p>Make payment with your debit card at no added cost. After payment, you can start surfing the internet.</p>
+                            <h4>Network and Plans</h4>
+                            <p>Enter your Phone number, select a data plan and enter your fullname and Email Address.</p>
                         </div>
                     </div>
                 </div>
