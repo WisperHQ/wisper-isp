@@ -263,7 +263,7 @@
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/team/4.png" alt="">
                         <h4 class="pt-4">CHISOM ALAOMA</h4>
-                        <span class="d-block mb-2">Head Of Networking</span>
+                        <span class="d-block mb-2">Director</span>
                         <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
                         <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
                     </div>
