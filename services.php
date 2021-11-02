@@ -385,25 +385,6 @@
     </section>
     <!-- End of Subscription -->
 
-    <!-- Brands -->
-    <section class="light-bg pt-80 pb-50">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <ul class="brands list-unstyled d-flex flex-wrap align-items-center justify-content-center justify-content-md-between mb-0">
-                        <li data-animate="fadeInUp" data-delay=".05"><img src="img/brands/brand1.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".2"><img src="img/brands/brand2.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".35"><img src="img/brands/brand3.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".5"><img src="img/brands/brand4.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".65"><img src="img/brands/brand5.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".8"><img src="img/brands/brand6.png" alt=""></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End of Brands -->
-
     <!-- Footer -->
     <?php require "footer.php" ?>
     <!-- End of Footer -->

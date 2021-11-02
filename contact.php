@@ -54,20 +54,8 @@
     <!-- End of Page Title -->
 
     <!-- Contacts -->
-    <section class="pt-120 pb-120">
+    <section class="pb-120">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <!-- Map -->
-                    <div class="map" data-animate="fadeInUp" data-delay=".1" data-trigger="map" data-map-options='{"latitude": "37.386052", "longitude": "-122.083851", "zoom": "15", "api_key": "AIzaSyCjkssBA3hMeFtClgslO2clWFR6bRraGz0"}'></div>
-                </div>
-                <div class="col-lg-4">
-                    <!-- Map description -->
-                    <div class="map-description light-bg d-flex align-items-center" data-animate="fadeInUp" data-delay=".4">
-                        <p>" At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis ntium voluptatum cupiditate non provident, lique sunt in culpa qui officia eserunt mollitia animi, id est laborum noakhalir lok fuga "</p>
-                    </div>
-                </div>
-            </div>
             <div class="row">
                 <div class="col-lg-4">
                     <div class="page-contacts-widget-wrapper light-bg d-flex align-items-center" data-animate="fadeInUp" data-delay=".1">

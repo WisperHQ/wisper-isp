@@ -74,12 +74,12 @@ input[type="number"] {
   -moz-appearance: textfield;
 }
 ::-moz-selection {
-  background: #202e39;
+  background: #424242;
   color: #fff;
   text-shadow: none;
 }
 ::selection {
-  background: #202e39;
+  background: #424242;
   color: #fff;
   text-shadow: none;
 }
@@ -107,7 +107,7 @@ img {
   height: auto;
 }
 a {
-  color: #202e39;
+  color: #424242;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -134,7 +134,7 @@ h6,
 .h5,
 .h6 {
   font-family: "Rubik", sans-serif;
-  color: #202e39;
+  color: #424242;
   line-height: 1.4;
 }
 h1,
@@ -284,7 +284,7 @@ body {
   background-color: #f9fdfc;
 }
 .dark-bg {
-  background-color: #202e39;
+  background-color: #424242;
 }
 
 .rubik {
@@ -964,7 +964,7 @@ label input[type="radio"] {
   opacity: 1;
 }
 .header-menu ul ul li a {
-  width: 180px;
+  width: 200px;
   padding: 10px 20px;
   color: #555c55;
   font-size: 0.875rem;
@@ -1197,7 +1197,7 @@ label input[type="radio"] {
 .service-details ul li {
   float: left;
   width: 50%;
-  color: #202e39;
+  color: #424242;
   position: relative;
   padding-left: 20px;
   margin-top: 15px;
@@ -1265,7 +1265,7 @@ label input[type="radio"] {
   color: #0579c9;
 }
 .single-package p {
-  color: #202e39;
+  color: #424242;
   font-size: 1.875rem;
   line-height: 1.2;
   font-weight: 500;
@@ -1339,7 +1339,7 @@ label input[type="radio"] {
 .review-text p:after {
   content: "\f10e";
   position: absolute;
-  color: #0579c9;
+  color: #424242;
   font-size: 1.125rem;
   font-family: "FontAwesome";
   font-style: normal;
@@ -1362,7 +1362,7 @@ label input[type="radio"] {
 }
 .review-author-info ul {
   font-size: 0.625rem;
-  color: #0579c9;
+  color: #424242;
   margin-bottom: 5px;
 }
 .review-author-info ul li {
@@ -1401,7 +1401,7 @@ label input[type="radio"] {
 }
 .next-review:hover,
 .prev-review:hover {
-  color: #0579c9;
+  color: #424242;
 }
 
 /*=============================================
@@ -1704,7 +1704,7 @@ label input[type="radio"] {
   text-transform: uppercase;
 }
 .comment-reply:hover {
-  color: #202e39;
+  color: #424242;
 }
 .sub-comment {
   padding-left: 70px;
@@ -2125,7 +2125,7 @@ label input[type="radio"] {
   font-family: "Rubik", sans-serif;
   font-weight: normal;
   font-size: 1.125rem;
-  color: #202e39;
+  color: #424242;
 }
 .sn-cart tr + tr {
   border: 1px solid #e2edea;
@@ -2192,7 +2192,7 @@ label input[type="radio"] {
   margin-bottom: 20px;
 }
 .cart-totals table th {
-  color: #202e39;
+  color: #424242;
   font-weight: normal;
 }
 .cart-totals table td {
@@ -2279,7 +2279,7 @@ label input[type="radio"] {
   font-size: 1rem;
 }
 .order-details-table tr:last-child {
-  color: #202e39;
+  color: #424242;
 }
 .order-details-table tr:last-child td + td {
   color: #0579c9;
@@ -2353,7 +2353,7 @@ label input[type="radio"] {
   font-size: 1.5rem;
   line-height: 1.5;
   font-style: italic;
-  color: #202e39;
+  color: #424242;
   margin: 0;
 }
 

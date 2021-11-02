@@ -10,7 +10,7 @@
 
     <!-- Document Title -->
     <title>Wisper</title>
-
+ 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/png" href="favicon.png">
 
@@ -257,6 +257,95 @@
     </section>
     <!-- End of Reviews -->
 
+    <!-- Services -->
+    <section class="light-bg pt-120 pb-90">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-8 col-md-10">
+                    <div class="section-title section-title text-center" data-animate="fadeInUp" data-delay=".1">
+                        <h2>Our Team</h2>
+                        <p>Meet the Wisper Core Team</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/1.png" alt="">
+                        <h4 class="pt-4">Lorem Ipsum</h4>
+                        <span class="d-block">Network Engineer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/2.png" alt="">
+                        <h4 class="pt-4">Lorem Ipsum</h4>
+                        <span class="d-block">Network Engineer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/3.png" alt="">
+                        <h4 class="pt-4">Lorem Ipsum</h4>
+                        <span class="d-block">Network Engineer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/4.png" alt="">
+                        <h4 class="pt-4">Lorem Ipsum</h4>
+                        <span class="d-block">Network Engineer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/5.png" alt="">
+                        <h4 class="pt-4">Lorem Ipsum</h4>
+                        <span class="d-block">Network Engineer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/6.png" alt="">
+                        <h4 class="pt-4">Lorem Ipsum</h4>
+                        <span class="d-block">Network Engineer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/7.png" alt="">
+                        <h4 class="pt-4">Lorem Ipsum</h4>
+                        <span class="d-block">Network Engineer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/8.png" alt="">
+                        <h4 class="pt-4">Lorem Ipsum</h4>
+                        <span class="d-block">Network Engineer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>              
+            </div>
+        </div>
+    </section>
+    <!-- End of Services -->
+
     <!-- Subscription -->
     <section class="pt-120 pb-120">
         <div class="container">
@@ -280,25 +369,6 @@
         </div>
     </section>
     <!-- End of Subscription -->
-
-    <!-- Brands -->
-    <section class="light-bg pt-80 pb-50">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <ul class="brands list-unstyled d-flex flex-wrap align-items-center justify-content-center justify-content-md-between mb-0">
-                        <li data-animate="fadeInUp" data-delay=".05"><img src="img/brands/brand1.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".2"><img src="img/brands/brand2.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".35"><img src="img/brands/brand3.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".5"><img src="img/brands/brand4.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".65"><img src="img/brands/brand5.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".8"><img src="img/brands/brand6.png" alt=""></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End of Brands -->
 
     <!-- Footer -->
     <?php require "footer.php" ?>

@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                         <div class="header-info text-center text-md-left">
-                            <span>Upgrade your internet speed for as low as 6,600/month</span>
+                            <span>Upgrade your internet speed for as low as 6,600/month <a href="#">Get It Now</a></span>
                         </div>
                 </div>
             </div>
@@ -25,11 +25,20 @@
                             <!-- Header-menu -->
                             <div class="header-menu">
                                 <ul class="navigation">
-                                    <li class="<?php if($currentPage =='home'){echo 'active';}?>"><a href="index.php">Home</a></li>
-                                    <li class="<?php if($currentPage =='about'){echo 'active';}?>"><a href="about.php">About Us</a></li>
-                                    <li class="<?php if($currentPage =='services'){echo 'active';}?>"><a href="services.php">Services and Products</a></li>
-                                    <li class="<?php if($currentPage =='blog'){echo 'active';}?>"><a href="#">Blog</a></li>
-                                    <li class="<?php if($currentPage =='contact'){echo 'active';}?>"><a href="contact.php">Contact Us</a></li>
+                                    <li class="<?php if($currentPage == 'home'){echo 'active';}?>"><a href="index.php">Home</a></li>
+                                    <li class="<?php if($currentPage == 'about'){echo 'active';}?>"><a href="about.php">About Us</a></li>
+                                    <li class="<?php if(substr($currentPage, 0, 3) === 'int'){echo 'active';}?>">
+                                        <a href="#">Services <i class="fa fa-caret-down"></i></a>
+                                        <ul>
+                                            <li class="<?php if($currentPage == 'int-services'){echo 'active';}?>"><a href="services.php">All services</a></li>
+                                            <li class="<?php if($currentPage == 'int-remote'){echo 'active';}?>"><a href="internet-remote-work.php">Internet for Remote work</a></li>
+                                            <li class="<?php if($currentPage == 'int-wisper-mobile'){echo 'active';}?>"><a href="internet-wisper-mobile.php">Wisper Mobile</a></li>
+                                            <li class="<?php if($currentPage == 'int-home-sme'){echo 'active';}?>"><a href="internet-home-sme.php">Internet for Home and SME</a></li>
+                                            <li class="<?php if($currentPage == 'int-corporate'){echo 'active';}?>"><a href="internet-corporate.php">Internet for Corporate</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="<?php if($currentPage == 'blog'){echo 'active';}?>"><a href="#">Blog</a></li>
+                                    <li class="<?php if($currentPage == 'contact'){echo 'active';}?>"><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </div>
                             <!-- End of Header-menu -->
