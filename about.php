@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from themelooks.net/demo/Wisper/html/preview/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 09:22:44 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -64,32 +63,23 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".3">
-                        <h2 class="mb-3">We are no. 1 internet service provider company in United States.</h2>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensure and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
+                        <h2 class="mb-3">Your Access To A World of Ultra Fast Internet</h2>
+                        <p>Wisper Technologies offer super fast internet for homes and businesses at affordable rates. Our goal is to redefine the internet experience for Nigerians.</p>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="single-about-us" data-animate="fadeInUp" data-delay=".1">
                         <h3 class="h4">Our Mission</h3>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias similique sunt in culpa qui officia deserunt mollitia quidem rerum facilis est et expedita distinctio.</p>
+                        <p>Our mission is to provide reliable internet solutions to all our customers, with round-the-clock customer support using the most efficient technologies. For us here at Wisper, our customers' satisfaction is top priority.</p>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="single-about-us" data-animate="fadeInUp" data-delay=".4">
                         <h3 class="h4">Our Vission</h3>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias similique sunt in culpa qui officia deserunt mollitia quidem rerum facilis est et expedita distinctio.</p>
+                        <p>Our vision is to fuel Nigeria’s venture into the global digital space by providing super fast internet service across the country. We are ushering the new generation of Africans ready to explore new opportunities through digitization.</p>
                     </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="single-about-us" data-animate="fadeInUp" data-delay=".7">
-                        <h3 class="h4">Our Ambition</h3>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias similique sunt in culpa qui officia deserunt mollitia quidem rerum facilis est et expedita distinctio.</p>
-                    </div>
-                </div>
-                <div class="col"  data-animate="fadeInUp" data-delay=".1">
-                    <p class="pt-3 pb-5 mb-2"><strong>On the other hand, we denounce with righteous indignation and dislike men</strong> who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those <strong>who fail in their duty through weakness</strong> of will, which is the same as saying through shrinking from toil and pain.</p>
                 </div>
             </div>
             <div class="row justify-content-center">
@@ -264,83 +254,92 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>Our Team</h2>
-                        <p>Meet the Wisper Core Team</p>
+                        <p>We are a highly motivated, customer-focused team that ensures that we achieve our vision and mission, build sustainability, and scale across new and emerging markets. </p>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/1.png" alt="">
-                        <h4 class="pt-4">Lorem Ipsum</h4>
-                        <span class="d-block">Network Engineer</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/2.png" alt="">
-                        <h4 class="pt-4">Lorem Ipsum</h4>
-                        <span class="d-block">Network Engineer</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/3.png" alt="">
-                        <h4 class="pt-4">Lorem Ipsum</h4>
-                        <span class="d-block">Network Engineer</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/team/4.png" alt="">
-                        <h4 class="pt-4">Lorem Ipsum</h4>
-                        <span class="d-block">Network Engineer</span>
+                        <h4 class="pt-4">CHISOM ALAOMA</h4>
+                        <span class="d-block mb-2">Head Of Networking</span>
                         <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
                         <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/5.png" alt="">
-                        <h4 class="pt-4">Lorem Ipsum</h4>
-                        <span class="d-block">Network Engineer</span>
+                        <img src="img/team/3.png" alt="">
+                        <h4 class="pt-4">EBUKA ARINZE</h4>
+                        <span class="d-block mb-2">Head Of Operations</span>
                         <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
                         <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/6.png" alt="">
-                        <h4 class="pt-4">Lorem Ipsum</h4>
-                        <span class="d-block">Network Engineer</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/7.png" alt="">
-                        <h4 class="pt-4">Lorem Ipsum</h4>
-                        <span class="d-block">Network Engineer</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/team/8.png" alt="">
-                        <h4 class="pt-4">Lorem Ipsum</h4>
-                        <span class="d-block">Network Engineer</span>
+                        <h4 class="pt-4">RAPHAEL A. UFUOMA</h4>
+                        <span class="d-block mb-2">Network Engineer</span>
                         <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
                         <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
                     </div>
-                </div>              
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/5.png" alt="">
+                        <h4 class="pt-4">EFOSA JEFFREY</h4>
+                        <span class="d-block mb-2">Software Engineer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/7.png" alt="">
+                        <h4 class="pt-4">NWAOBI DANEIL</h4>
+                        <span class="d-block mb-2">Graphics Designer</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/6.png" alt="">
+                        <h4 class="pt-4">OMORUYI NATHANIEL</h4>
+                        <span class="d-block mb-2">Sales Personnel</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/1.png" alt="">
+                        <h4 class="pt-4">DANIEL ATIKA</h4>
+                        <span class="d-block mb-2">Sales Personnel</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/2.png" alt="">
+                        <h4 class="pt-4">MIKE UGOCHUKWU</h4>
+                        <span class="d-block mb-2">Sales Personnel</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                        <img src="img/team/9.png" alt="">
+                        <h4 class="pt-4">OMOTOYOSI AYANLEYE</h4>
+                        <span class="d-block mb-2">Human Resource Manager</span>
+                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                    </div>
+                </div>       
             </div>
         </div>
     </section>
