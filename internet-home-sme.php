@@ -148,7 +148,7 @@
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
-                <p class="single-package text-center" data-animate="fadeInUp" data-delay=".1" >Installation cost: ₦ 39,000 which includes Radio, Router & Cables</p>
+                <p class="text-center" style="text-align:center">Installation cost: ₦ 39,000 which includes Radio, Router & Cables</p>
             </div>
             <!-- End of Packages -->
             
@@ -219,7 +219,7 @@
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
-                <p class="single-package text-center" data-animate="fadeInUp" data-delay=".1" >Installation cost: ₦ 65,500 which includes Radio, Router & Cables</p>
+                <p class="text-center" style="text-align:center" >Installation cost: ₦ 65,500 which includes Radio, Router & Cables</p>
             </div>
             <!-- End of Packages -->
             
