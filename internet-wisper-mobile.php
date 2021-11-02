@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Document Title -->
-    <title>Serviney</title>
+    <title>Wisper Mobile: Affordable Date Plans for All</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/png" href="favicon.png">
@@ -44,7 +44,7 @@
                         <ul class="list-unstyled m-0 d-flex">
                             <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
                             <li><a href="services.html">Services</a></li>
-                            <li><a href="#">Internet Provider</a></li>
+                            <li><a href="#">Wisper Mobile</a></li>
                         </ul>
                     </div>
                 </div>
@@ -59,16 +59,17 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Enjoy high speed internet up to 1Gbps download speed from <span>$05.50/m</span></h2>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
-                        <p><i>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</i></p>
+                        <h2>Affordable Internet Data For All. Start From <span>₦300/GB</span></h2>
+                        <p>Wisper is a virtual mobile network that allows you to buy internet data plans at an affordable rate. Our goal is to help you reduce how much you spend on data and still enjoy fast and reliable internet.</p>
+                        <p>A Service, not a SIM. You don't need to have a wisper mobile sim card on your phone to access these prices for data. All you need is your current network operator and your mobile phone. Our Service is to offer you affordable internet.</p>
+                        <p>Our flexibility enables us to meet the needs of niche markets: the SME market, the tourist market, the "ethnic" market, the cooperatives, etc.</p>
                         <ul class="rubik list-unstyled m-0 clearfix">
-                            <li>WiFi control</li>
-                            <li>10 e-mail accounts</li>
-                            <li>Pro Installation</li>
-                            <li>Wall-to-Wall Fast WiFi</li>
+                            <li>Save More Money</li>
+                            <li>Enjoy Amazing Support</li>
+                            <li>Flexible Plan Options</li>
+<!--                             <li>Wall-to-Wall Fast WiFi</li>
                             <li>Serviney Security</li>
-                            <li>Money back Guarantee</li>
+                            <li>Money back Guarantee</li> -->
                         </ul>
                     </div>
                 </div>
