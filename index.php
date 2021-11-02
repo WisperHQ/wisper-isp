@@ -549,7 +549,7 @@
                             <div class="swiper-wrapper text-center">
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
-                                    <img src="img/posts/post1.jpg" data-rjs="2" alt="">
+                                    <img src="img/posts/streaming.png" data-rjs="2" alt="">
                                    <!--  <ul class="list-unstyled d-flex align-items-center">
                                         <li><img src="img/authors/author1.jpg" alt=""></li>
                                         <li>by <a href="#">Zane M. Frye</a></li>
@@ -560,7 +560,7 @@
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
-                                     <img src="img/posts/post2.jpg" data-rjs="2" alt="">
+                                     <img src="img/posts/gaming.png" data-rjs="2" alt="">
                                    <!-- <ul class="list-unstyled d-flex align-items-center">
                                         <li><img src="img/authors/male.png" alt=""></li>
                                         <li>by <a href="#">Zane M. Frye</a></li>
@@ -571,24 +571,35 @@
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
-                                     <img src="img/posts/post3.jpg" data-rjs="2" alt="">
+                                     <img src="img/posts/meeting.png" data-rjs="2" alt="">
                                   <!--  <ul class="list-unstyled d-flex align-items-center">
                                         <li><img src="img/authors/female.png" alt=""></li>
                                         <li>by <a href="#">Zane M. Frye</a></li>
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
-                                    <h3 class="text-light"><b>Streaming TV</b><h3>
+                                    <h3 class="text-light"><b>Online Meetings</b><h3>
                                     <h3 class="h5 text-light"><a>Everything you need to know to cut the cord and ditch cable to order now</a></h3>
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
-                                    <img src="img/posts/post1.jpg" data-rjs="2" alt="">
+                                    <img src="img/posts/remotework.png" data-rjs="2" alt="">
                                     <!-- <ul class="list-unstyled d-flex align-items-center">
                                         <li><img src="img/authors/author1.jpg" alt=""></li>
                                         <li>by <a href="#">Zane M. Frye</a></li>
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
-                                    <h3 class="text-light"><b>Gaming</b><h3>
+                                    <h3 class="text-light"><b>Remote Works</b><h3>
+                                    <h3 class="h5 text-light"><a>Everything you need to know to cut the cord and ditch cable to order now</a></h3>
+                                </div>
+                                <div class="single-news swiper-slide">
+                                    <!-- <a class="tip" href="#">News</a> -->
+                                     <img src="img/posts/learning.png" data-rjs="2" alt="">
+                                  <!--  <ul class="list-unstyled d-flex align-items-center">
+                                        <li><img src="img/authors/female.png" alt=""></li>
+                                        <li>by <a href="#">Zane M. Frye</a></li>
+                                        <li><a href="#">January 19, 2018</a></li>
+                                    </ul> -->
+                                    <h3 class="text-light"><b>Learning</b><h3>
                                     <h3 class="h5 text-light"><a>Everything you need to know to cut the cord and ditch cable to order now</a></h3>
                                 </div>
                             </div>
