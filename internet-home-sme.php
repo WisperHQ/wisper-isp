@@ -89,7 +89,8 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>Home Packages</h2>
-                        <p>SHARED INTERNET CONNECTION</p>
+                        <p>Starting at ₦6,600/mo. you can now connect your family and enjoy unlimited streaming and many more</p>
+                        <p>Shared Internet Connection</p>
                     </div>
                 </div>
             </div>
@@ -156,7 +157,8 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>SME Packages</h2>
-                        <p>SHARED INTERNET CONNECTION</p>
+                        <p>Starting at N25,000/mo. connect all your staff and get work done with ease and pace to fast and reliable internet service.</P>
+                        <p>Shared Internet Connection</p>
                     </div>
                 </div>
             </div>
