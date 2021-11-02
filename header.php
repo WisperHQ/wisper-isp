@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                         <div class="header-info text-center text-md-left">
-                            <span>Upgrade your internet speed for as low as 6,600/month <a href="#">Get It Now</a></span>
+                            <span>Upgrade your internet speed for as low as ₦6,600/month <a href="#">Get It Now</a></span>
                         </div>
                 </div>
             </div>
