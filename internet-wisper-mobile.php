@@ -89,8 +89,8 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Choose Affordable Packages</h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                        <h2>Affordable Data Packages, Choose your Best One</h2>
+                        <p>Save money now while enjoying fast and reliable internet service. No new sim card needed, no VPN need, no cheat or hack required. All you need is your mobile phone.</p>
                     </div>
                 </div>
             </div>
@@ -99,71 +99,142 @@
             <div class="row pb-90">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h4>Personal Pack</h4>
-                        <span>for personal user</span>
+                        <h4>1 GB Data Plan</h4>
+                        <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>15 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>01 year</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
+                            <li>Instant Data Allocation</li>
+                            <li>24/7 Support</li>
+                            <li>No New Sim Required</li>
+                            <li>Available for you Number</li>
+                        <!-- <li>Unlimited bandwidth</li> -->
                         </ul>
-                        <p><sup>$</sup>12.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+                        <p><sup>₦</sup>290<span>/Valid for 1 Month</span></p>
+                        <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
-                        <span class="pupular-pack">Most popular package</span>
-                        <h4>Family Pack</h4>
-                        <span>for family user</span>
+<!--                         <span class="pupular-pack">Most popular package</span> -->
+                        <h4>2 GB Data Plan</h4>
+                        <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>25 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>02 year</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
+                            <li>Instant Data Allocation</li>
+                            <li>24/7 Support</li>
+                            <li>No New Sim Required</li>
+                            <li>Available for you Number</li>
+                        <!-- <li>Unlimited bandwidth</li> -->
                         </ul>
-                        <p><sup>$</sup>24.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+                        <p><sup>₦</sup>550<span>/Valid for 1 Month</span></p>
+                        <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
-                        <h4>Business Pack</h4>
-                        <span>for business user</span>
+                        <h4>3 GB Data Plan</h4>
+                        <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>30 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>03 year</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
+                            <li>Instant Data Allocation</li>
+                            <li>24/7 Support</li>
+                            <li>No New Sim Required</li>
+                            <li>Available for you Number</li>
+                        <!-- <li>Unlimited bandwidth</li> -->
                         </ul>
-                        <p><sup>$</sup>49.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+                        <p><sup>₦</sup>790<span>/Valid for 1 Month</span></p>
+                        <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay="1">
-                        <h4>Corporate Pack</h4>
-                        <span>for corporate user</span>
+                        <h4>5 GB Data Plan</h4>
+                        <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>39 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>Unlimited</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
+                            <li>Instant Data Allocation</li>
+                            <li>24/7 Support</li>
+                            <li>No New Sim Required</li>
+                            <li>Available for you Number</li>
+                        <!-- <li>Unlimited bandwidth</li> -->
                         </ul>
-                        <p><sup>$</sup>79.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+                        <p><sup>₦</sup>1,290<span>/Valid for 1 Month</span></p>
+                        <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
                     </div>
                 </div>
             </div>
             <!-- End of Packages -->
+            
+           <!-- Packages -->
+            <div class="row pb-90">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
+                        <h4>10 GB Data Plan</h4>
+                        <span>30 Days Validity</span>
+                        <hr>
+                        <ul class="list-unstyled">
+                            <li>Instant Data Allocation</li>
+                            <li>24/7 Support</li>
+                            <li>No New Sim Required</li>
+                            <li>Available for you Number</li>
+                        <!-- <li>Unlimited bandwidth</li> -->
+                        </ul>
+                        <p><sup>₦</sup>2,500<span>/Valid for 1 Month</span></p>
+                        <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
+<!--                         <span class="pupular-pack">Most popular package</span> -->
+                        <h4>15 GB Data Plan</h4>
+                        <span>30 Days Validity</span>
+                        <hr>
+                        <ul class="list-unstyled">
+                            <li>Instant Data Allocation</li>
+                            <li>24/7 Support</li>
+                            <li>No New Sim Required</li>
+                            <li>Available for you Number</li>
+                        <!-- <li>Unlimited bandwidth</li> -->
+                        </ul>
+                        <p><sup>₦</sup>3,750<span>/Valid for 1 Month</span></p>
+                        <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
+                        <h4>20 GB Data Plan</h4>
+                        <span>30 Days Validity</span>
+                        <hr>
+                        <ul class="list-unstyled">
+                            <li>Instant Data Allocation</li>
+                            <li>24/7 Support</li>
+                            <li>No New Sim Required</li>
+                            <li>Available for you Number</li>
+                        <!-- <li>Unlimited bandwidth</li> -->
+                        </ul>
+                        <p><sup>₦</sup>5,000<span>/Valid for 1 Month</span></p>
+                        <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-package text-center" data-animate="fadeInUp" data-delay="1">
+                        <h4>40 GB Data Plan</h4>
+                        <span>30 Days Validity</span>
+                        <hr>
+                        <ul class="list-unstyled">
+                            <li>Instant Data Allocation</li>
+                            <li>24/7 Support</li>
+                            <li>No New Sim Required</li>
+                            <li>Available for you Number</li>
+                        <!-- <li>Unlimited bandwidth</li> -->
+                        </ul>
+                        <p><sup>₦</sup>10,000<span>/Valid for 1 Month</span></p>
+                        <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
+                    </div>
+                </div>
+            </div>
+            <!-- End of Packages -->
+
 
             <!-- Packages Includes -->
             <div class="row justify-content-center">
