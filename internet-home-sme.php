@@ -108,6 +108,7 @@
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
                             <li>Shared Internet Connection</li>
+                            <li>Installation cost: ₦ 39,000 which includes Radio, Router & Cables</li>
                         </ul>
                         <p><sup>₦</sup>6,600 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
@@ -126,6 +127,7 @@
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
                             <li>Shared Internet Connection</li>
+                            <li>Installation cost: ₦ 39,000 which includes Radio, Router & Cables</li>
                         </ul>
                         <p><sup>₦</sup>12,500 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
@@ -143,13 +145,13 @@
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
                             <li>Shared Internet Connection</li>
+                            <li>Installation cost: ₦ 39,000 which includes Radio, Router & Cables</li>
                         </ul>
                         <p><sup>₦</sup>21,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
             </div>
-<p class="text-center" style="text-align:center">Installation cost: ₦ 39,000 which includes Radio, Router & Cables</p>
             <!-- End of Packages -->
             
             
@@ -179,6 +181,7 @@
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
                             <li>Shared Internet Connection</li>
+                            <li>Installation cost: ₦ 65,500 which includes Radio, Router & Cables<li>
                         </ul>
                         <p><sup>₦</sup>25,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
@@ -197,6 +200,7 @@
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
                             <li>Shared Internet Connection</li>
+                            <li>Installation cost: ₦ 65,500 which includes Radio, Router & Cables<li>
                         </ul>
                         <p><sup>₦</sup>38,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
@@ -214,13 +218,13 @@
                             <li>Free 3-days test trial</li>
                             <li>Regular or routine network analysis and reporting</li>
                             <li>Shared Internet Connection</li>
+                            <li>Installation cost: ₦ 65,500 which includes Radio, Router & Cables<li>
                         </ul>
                         <p><sup>₦</sup>56,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
             </div>
-                        <p class="text-center" style="text-align:center" >Installation cost: ₦ 65,500 which includes Radio, Router & Cables</p>
             <!-- End of Packages -->
             
             
