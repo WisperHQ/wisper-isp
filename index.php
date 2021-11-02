@@ -556,7 +556,7 @@
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
                                     <h3 class="text-light"><b>Streaming TV</b><h3>
-                                    <h3 class="h5 text-light"><a>Everything you need to know to cut the cord and ditch cable to order now</a></h3>
+                                    <h3 class="h5 text-light"><a>Whether you want to stream live TV, binge watch your favourite series or catch up on your missed shows</a></h3>
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
@@ -567,7 +567,7 @@
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
                                     <h3 class="text-light"><b>Gaming</b><h3>
-                                    <h3 class="h5 text-light"><a>Everything you need to know to cut the cord and ditch cable to order now</a></h3>
+                                    <h3 class="h5 text-light"><a>Fire up a wild ride across the cosmos and experience only the best Gaming with the power of Wisper Zero-lag connectivity</a></h3>
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
@@ -578,7 +578,7 @@
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
                                     <h3 class="text-light"><b>Online Meetings</b><h3>
-                                    <h3 class="h5 text-light"><a>Everything you need to know to cut the cord and ditch cable to order now</a></h3>
+                                    <h3 class="h5 text-light"><a>Create an engaging meeting experience with Wisper and get more done together</a></h3>
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
@@ -589,7 +589,7 @@
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
                                     <h3 class="text-light"><b>Remote Works</b><h3>
-                                    <h3 class="h5 text-light"><a>Everything you need to know to cut the cord and ditch cable to order now</a></h3>
+                                    <h3 class="h5 text-light"><a>Explore how the Wisper seamlessly brings together remote and in-person teams, for work that goes wherever you do</a></h3>
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
@@ -600,7 +600,7 @@
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
                                     <h3 class="text-light"><b>Learning</b><h3>
-                                    <h3 class="h5 text-light"><a>Everything you need to know to cut the cord and ditch cable to order now</a></h3>
+                                    <h3 class="h5 text-light"><a>There's nothing better than getting better. Keep growing with unlimited class streaming. Grow Without Limits Using Wisper.</a></h3>
                                 </div>
                             </div>
                         </div>
