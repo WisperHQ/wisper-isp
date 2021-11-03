@@ -60,7 +60,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/icons/earth.svg" alt="" class="svg">
                         <h4>Internet For Remote</h4>
-                        <p>Get fast and reliable internet service for you remote staffs.</p>
+                        <p>Get fast and reliable internet service for you remote staffs at the comfort of their homes</p>
                         <a href="internet-remote-work.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
                         <img src="img/icons/phone.svg" alt="" class="svg">
                         <h4>Wisper Mobile</h4>
-                        <p>Save money now while enjoying fast and reliable internet service.</p>
+                        <p>Save money now while enjoying fast and reliable internet service. Affordable Internet for all.</p>
                         <a href="internet-wisper-mobile.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>

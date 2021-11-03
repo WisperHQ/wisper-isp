@@ -89,9 +89,9 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
-                        <h2 class="mb-3">We are no. 1 internet service provider company in United States.</h2>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
-                        <a href="#" class="btn">View Details</a>
+                        <h2 class="mb-3">Your Access To A World of Ultra Fast Internet</h2>
+                        <p>Wisper Technologies offer super fast internet for homes and businesses at affordable rates. Our goal is to redefine the internet experience for Nigerians.</p>
+                        <a href="about.php" class="btn">View Details</a>
                     </div>
                 </div>
             </div>
@@ -102,8 +102,8 @@
                             <img src="img/icons/setup.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Free Installations & Setup</h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
+                            <h4>Truly Unlimited Data</h4>
+                            <p>With Wisper Telecommunications, you are guaranteed unlimited data, no data cap, no limits.</p>
                         </div>
                     </div>
                 </div>
@@ -113,8 +113,8 @@
                             <img src="img/icons/download.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Up to 1 Gpbs Download Speed</h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
+                            <h4>Network reliability.</h4>
+                            <p>Enjoy network uptime of 99.99%. Stay connected to reliable internet always.</p>
                         </div>
                     </div>
                 </div>
@@ -125,7 +125,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>24/7 Customer Support</h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
+                            <p>We are always here to support you 24/7, Monday to Sunday.</p>
                         </div>
                     </div>
                 </div>
@@ -135,47 +135,39 @@
     <!-- End of About Us -->
 
     <!-- Services -->
-    <section class="theme-bg-overlay bg-img-md-none pt-120 pb-90" data-bg-img="img/review-bg.png" data-rjs="2">
+    <section class="pt-120 pb-90">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-6 col-lg-8 col-md-10">
-                    <div class="section-title section-title-white text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Services We Provide</h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour.</p>
-                    </div>
-                </div>
-            </div>
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
-                    <div class="single-service single-service-white text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/icons/earth.svg" alt="" class="svg">
-                        <h4>High Speed Internet</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a>
+                        <h4>Internet For Remote</h4>
+                        <p>Get fast and reliable internet service for you remote staffs at the comfort of their homes</p>
+                        <a href="internet-remote-work.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <div class="single-service single-service-white text-center" data-animate="fadeInUp" data-delay=".4">
+                    <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
                         <img src="img/icons/phone.svg" alt="" class="svg">
-                        <h4>Phone Service</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        <a href="mobile.html">Learn More <i class="fa fa-angle-right"></i></a>
+                        <h4>Wisper Mobile</h4>
+                        <p>Save money now while enjoying fast and reliable internet service. Affordable Internet for all.</p>
+                        <a href="internet-wisper-mobile.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <div class="single-service single-service-white text-center" data-animate="fadeInUp" data-delay=".7">
+                    <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
                         <img src="img/icons/tv.svg" alt="" class="svg">
-                        <h4>Cable TV</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        <a href="cable-tv.html">Learn More <i class="fa fa-angle-right"></i></a>
+                        <h4>Internet for Home and SME</h4>
+                        <p>Starting at ₦6,600/mo. you can now connect your family and enjoy unlimited streaming and many more</p>
+                        <a href="internet-home-sme.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <div class="single-service single-service-white text-center" data-animate="fadeInUp" data-delay="1">
+                    <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
                         <img src="img/icons/server.svg" alt="" class="svg">
-                        <h4>Dedicated Server</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        <a href="dedicated-server.html">Learn More <i class="fa fa-angle-right"></i></a>
+                        <h4>Internet For Corporate</h4>
+                        <p>With our dedicated internet services, enjoy guaranteed high speed with a 97.8% SLA on our services.</p>
+                        <a href="internet-corporate.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>

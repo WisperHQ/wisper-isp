@@ -89,8 +89,8 @@
                             <img src="img/icons/setup.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Free Installations & Setup</h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
+                            <h4>Truly Unlimited Data</h4>
+                            <p>With Wisper Telecommunications, you are guaranteed unlimited data, no data cap, no limits.</p>
                         </div>
                     </div>
                 </div>
@@ -100,8 +100,8 @@
                             <img src="img/icons/download.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Up to 1 Gpbs Download Speed</h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
+                            <h4>Network reliability</h4>
+                            <p>Enjoy network uptime of 99.99%. Stay connected to reliable internet always.</p>
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>24/7 Customer Support</h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
+                            <p>We are always here to support you 24/7, Monday to Sunday.</p>
                         </div>
                     </div>
                 </div>
