@@ -59,33 +59,33 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/icons/earth.svg" alt="" class="svg">
-                        <h4>High Speed Internet</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a>
+                        <h4>Internet For Remote</h4>
+                        <p>Get fast and reliable internet service for you remote staffs.</p>
+                        <a href="internet-remote-work.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
                         <img src="img/icons/phone.svg" alt="" class="svg">
-                        <h4>Phone Service</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        <a href="mobile.html">Learn More <i class="fa fa-angle-right"></i></a>
+                        <h4>Wisper Mobile</h4>
+                        <p>Save money now while enjoying fast and reliable internet service.</p>
+                        <a href="internet-wisper-mobile.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
                         <img src="img/icons/tv.svg" alt="" class="svg">
-                        <h4>Cable TV</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        <a href="cable-tv.html">Learn More <i class="fa fa-angle-right"></i></a>
+                        <h4>Internet for Home and SME</h4>
+                        <p>Starting at ₦6,600/mo. you can now connect your family and enjoy unlimited streaming and many more</p>
+                        <a href="internet-home-sme.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
                         <img src="img/icons/server.svg" alt="" class="svg">
-                        <h4>Dedicated Server</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        <a href="dedicated-server.html">Learn More <i class="fa fa-angle-right"></i></a>
+                        <h4>Internet For Corporate</h4>
+                        <p>With our dedicated internet services, enjoy guaranteed high speed with a 97.8% SLA on our services.</p>
+                        <a href="internet-corporate.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
