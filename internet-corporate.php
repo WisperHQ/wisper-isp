@@ -88,21 +88,22 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Choose Affordable Packages</h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                        <h2>Corporate Packaging</h2>
+                        <p>4G Dedicated Internet Connection (Microwave Connectivity)</p>
                     </div>
                 </div>
             </div>
             
             <!-- Packages -->
             <div class="row pb-90">
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h4>Bronze Plan</h4>
+                        <h4>3 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Up to 3 Mbps</li>
+                            <li>Unlimited data.</li>
+                            <li>Guaranteed speed</li>
                             <li>Free internet survey, testing and deployment at your location</li>
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
@@ -110,18 +111,19 @@
                             <li>Shared Internet Connection</li>
                             <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
                         </ul>
-                        <p><sup>₦</sup>25,000 <span>/Monthly</span></p>
+                        <p><sup>₦</sup>69,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
                         <span class="pupular-pack">Most popular package</span>
-                        <h4>Silver Plan</h4>
+                        <h4>5 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Up to 5 Mbps</li>
+                            <li>Unlimited data.</li>
+                            <li>Guaranteed speed</li>
                             <li>Free internet survey, testing and deployment at your location</li>
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
@@ -129,17 +131,18 @@
                             <li>Shared Internet Connection</li>
                             <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
                         </ul>
-                        <p><sup>₦</sup>38,000 <span>/Monthly</span></p>
+                        <p><sup>₦</sup>87,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
-                        <h4>Gold Plan</h4>
+                        <h4>10 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Up to 10 Mbps</li>
+                            <li>Unlimited data.</li>
+                            <li>Guaranteed speed</li>
                             <li>Free internet survey, testing and deployment at your location</li>
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
@@ -147,22 +150,42 @@
                             <li>Shared Internet Connection</li>
                             <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
                         </ul>
-                        <p><sup>₦</sup>56,000 <span>/Monthly</span></p>
+                        <p><sup>₦</sup>165,000 <span>/Monthly</span></p>
+                        <a href="subscription.php" class="btn">Order This Plan</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
+                        <h4>15 Mbps</h4>
+                        <span>30 Days Validity</span>
+                        <hr>
+                        <ul class="list-unstyled">
+                            <li>Unlimited data.</li>
+                            <li>Guaranteed speed</li>
+                            <li>Free internet survey, testing and deployment at your location</li>
+                            <li>Free network equipment and Installation</li>
+                            <li>Free 3-days test trial</li>
+                            <li>Regular or routine network analysis and reporting</li>
+                            <li>Shared Internet Connection</li>
+                            <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
+                        </ul>
+                        <p><sup>₦</sup>195,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
             </div>
             <!-- End of Packages -->
             
-                        <!-- Packages -->
+           <!-- Packages -->
             <div class="row pb-90">
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h4>Bronze Plan</h4>
+                        <h4>20 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Up to 3 Mbps</li>
+                            <li>Unlimited data.</li>
+                            <li>Guaranteed speed</li>
                             <li>Free internet survey, testing and deployment at your location</li>
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
@@ -170,18 +193,19 @@
                             <li>Shared Internet Connection</li>
                             <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
                         </ul>
-                        <p><sup>₦</sup>25,000 <span>/Monthly</span></p>
+                        <p><sup>₦</sup>265,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
                         <span class="pupular-pack">Most popular package</span>
-                        <h4>Silver Plan</h4>
+                        <h4>30 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Up to 5 Mbps</li>
+                            <li>Unlimited data.</li>
+                            <li>Guaranteed speed</li>
                             <li>Free internet survey, testing and deployment at your location</li>
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
@@ -189,17 +213,18 @@
                             <li>Shared Internet Connection</li>
                             <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
                         </ul>
-                        <p><sup>₦</sup>38,000 <span>/Monthly</span></p>
+                        <p><sup>₦</sup>370,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
-                        <h4>Gold Plan</h4>
+                        <h4>40 Mbpa</h4>
                         <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Up to 10 Mbps</li>
+                            <li>Unlimited data.</li>
+                            <li>Guaranteed speed</li>
                             <li>Free internet survey, testing and deployment at your location</li>
                             <li>Free network equipment and Installation</li>
                             <li>Free 3-days test trial</li>
@@ -207,7 +232,26 @@
                             <li>Dedicated Internet Connection</li>
                             <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
                         </ul>
-                        <p><sup>₦</sup>56,000 <span>/Monthly</span></p>
+                        <p><sup>₦</sup>484,000 <span>/Monthly</span></p>
+                        <a href="subscription.php" class="btn">Order This Plan</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
+                        <h4>50 Mbpa</h4>
+                        <span>30 Days Validity</span>
+                        <hr>
+                        <ul class="list-unstyled">
+                            <li>Unlimited data.</li>
+                            <li>Guaranteed speed</li>
+                            <li>Free internet survey, testing and deployment at your location</li>
+                            <li>Free network equipment and Installation</li>
+                            <li>Free 3-days test trial</li>
+                            <li>Regular or routine network analysis and reporting</li>
+                            <li>Dedicated Internet Connection</li>
+                            <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
+                        </ul>
+                        <p><sup>₦</sup>585,000 <span>/Monthly</span></p>
                         <a href="subscription.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
