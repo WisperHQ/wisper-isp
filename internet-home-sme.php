@@ -338,7 +338,7 @@
                         </div>
                     </div>
                 </div>
-                
+        </div>
             </div>
             <!-- End of Packages Includes -->
         </div>
