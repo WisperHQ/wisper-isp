@@ -93,7 +93,11 @@
     </section>
     <!-- End of Services -->
     
-            <!-- Packages Includes -->
+         
+         <!-- Packages Wrap -->
+    <section class="pt-120 pb-55">
+        <div class="container">
+    <!-- Packages Includes -->
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
