@@ -93,14 +93,12 @@
     </section>
     <!-- End of Services -->
     
-    <!-- Why Us -->
-    <section class="light-bg pt-120 pb-55">
-        <div class="container">
+            <!-- Packages Includes -->
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Why choose us</h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                        <h2>All Plans Included</h2>
+                        <p>At Wisper, we have grown to establish strong presence at our 6 various locations (Lagos, Enugu, Owerri, Benin city, Abuja and Port Harcourt).</p>
                     </div>
                 </div>
             </div>
@@ -112,8 +110,8 @@
                             <img src="img/icons/ftp.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Own FTP Server</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>Wisper ZERO Capping/ 4G Unlimited data Consumption</h4>
+<!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
                         </div>
                     </div>
                 </div>
@@ -123,8 +121,8 @@
                             <img src="img/icons/upgrade.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Upgrade or Downgrade</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>Hybrid Backbone Design with Multiple Feed Redundancy</h4>
+<!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
                         </div>
                     </div>
                 </div>
@@ -134,8 +132,8 @@
                             <img src="img/icons/data.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>No Hard Data Limit</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>75% High-Rate redundancy</h4>
+<!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
                         </div>
                     </div>
                 </div>
@@ -145,8 +143,8 @@
                             <img src="img/icons/lock.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Lock in Low Rates</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>Bandwidth Management system</h4>
+<!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
                         </div>
                     </div>
                 </div>
@@ -156,8 +154,41 @@
                             <img src="img/icons/cloud.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>No Video Streaming</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>Network Operations Center offering full technical support   </h4>
+<!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
+                        <div class="single-feature-img">
+                            <img src="img/icons/cloud.svg" alt="" class="svg">
+                        </div>
+                        <div class="single-feature-content">
+                            <h4>Flexibility and affordable prices at 20% cheaper than market price</h4>
+<!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
+                        <div class="single-feature-img">
+                            <img src="img/icons/cloud.svg" alt="" class="svg">
+                        </div>
+                        <div class="single-feature-content">
+                            <h4>Outstanding Customer Support ensuring excellent after sales customer satisfaction.</h4>
+<!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
+                        <div class="single-feature-img">
+                            <img src="img/icons/cloud.svg" alt="" class="svg">
+                        </div>
+                        <div class="single-feature-content">
+                            <h4>Network Operations Center offering full technical support   </h4>
+<!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
                         </div>
                     </div>
                 </div>
@@ -167,15 +198,16 @@
                             <img src="img/icons/access.svg" alt="" class="svg">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Access to All Website</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>24/7 Dedicated technical support</h4>
+<!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
                         </div>
                     </div>
                 </div>
             </div>
+            <!-- End of Packages Includes -->
         </div>
     </section>
-    <!-- End of Why One -->
+    <!-- End of Packages Wrap -->
 
     <!-- FAQ -->
     <section class="pt-120 pb-70">
