@@ -88,7 +88,10 @@
                     <div class="contact-form parsley-validate-wrap mt-60" data-animate="fadeInUp" data-delay=".4">
                         <h3 class="bordered-title">Get In Touch</h3>
                         <div class="form-response"></div>
-                        <form method="post" action="http://themelooks.net/demo/Wisper/html/preview/sendmail.php">
+
+                        <div id="error" class="text-danger mb-3" role="alert"></div>
+                        
+                        <form id="form" method="post" action="">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-field">
@@ -114,15 +117,17 @@
                             <div class="form-field">
                                 <textarea name="message" class="theme-input-style" placeholder="Write your message" required></textarea>
                             </div>
-                            <button type="submit" class="btn">Send Message</button>
+                            <button id="submitBtn" type="submit" class="btn">
+                                Send Message
+                            </button>
                         </form>
                     </div>
                     <!-- End of Contact Form -->
 
 
                     <!-- Form success Button trigger modal -->
-                    <button type="button" id="successBtn" class="btn btn-primary " data-bs-toggle="modal"
-                    data-bs-target="#exampleModal">
+                    <button type="button" id="successBtn" class="btn btn-primary " data-toggle="modal"
+                    data-target="#exampleModal">
                     Success
                     </button>
 
@@ -134,9 +139,9 @@
                                 <h5 id="success" class="text-success" role="alert">
 
                                 </h5>
-                                <img width="150" class="pt-3" src="./images/check.jpg" alt="success">
+                                <img width="150" class="pt-3" src="img/check.jpg" alt="success">
                                 <div class="d-grid gap-2 pt-5">
-                                <button class="btn btn-lg btn-success" data-bs-dismiss="modal" type="button">OK</button>
+                                <button class="btn btn-lg btn-success" data-dismiss="modal" type="button">OK</button>
                                 </div>
                             </div>
                             </div>
@@ -172,6 +177,8 @@
     <script src="js/menu.min.js"></script>
     <script src="js/scripts.js"></script>
     <script src="js/custom.js"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script src="js/contact-us.js"></script>
 </body>
 
 <!-- Mirrored from themelooks.net/demo/Wisper/html/preview/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 09:25:03 GMT -->
