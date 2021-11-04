@@ -37,7 +37,7 @@
                                             <li class="<?php if($currentPage == 'int-corporate'){echo 'active';}?>"><a href="internet-corporate.php">Internet for Corporate</a></li>
                                         </ul>
                                     </li>
-                                    <li class="<?php if($currentPage == 'blog'){echo 'active';}?>"><a href="#">Blog</a></li>
+                                    <li class="<?php if($currentPage == 'blog'){echo 'active';}?>"><a href="https://blog.wisper.ng">Blog</a></li>
                                     <li class="<?php if($currentPage == 'contact'){echo 'active';}?>"><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </div>
