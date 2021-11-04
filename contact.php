@@ -126,7 +126,7 @@
 
 
                     <!-- Form success Button trigger modal -->
-                    <button type="button" id="successBtn" class="btn btn-primary " data-toggle="modal"
+                    <button type="button" id="successBtn" class="btn btn-primary d-none" data-toggle="modal"
                     data-target="#exampleModal">
                     Success
                     </button>
