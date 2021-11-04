@@ -7,7 +7,7 @@ const formSubmissionHandler = async (event) => {
     body = new FormData(formElement);
 
   const emailFrom = formElement["email"].value;
-  const emailTo = "contact@wisper.ng";
+  const emailTo = "wisperng@gmail.com";
 
   // clear error or success message
   clearServerResponseMessage();
@@ -53,7 +53,7 @@ const sendEmail = async (formElement, formDataEntries, emailFrom, emailTo) => {
   );
 
   const res = await Email.send({
-    SecureToken: "f000b52d-005c-4adf-bb7f-d9f1be2617db",
+    SecureToken: "0608d053-abc9-40aa-b255-0129336f245b",
     To: emailTo,
     From: emailFrom,
     Subject: `Message from WisperISP Contact Form`,
