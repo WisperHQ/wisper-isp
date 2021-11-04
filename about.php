@@ -52,7 +52,7 @@
     </section>
     <!-- End of Page Title -->
     
-    <!-- Abut Us -->
+    <!-- About Us -->
     <section class="pt-120 pb-55">
         <div class="container">
             <div class="row align-items-center pb-4">
@@ -142,8 +142,8 @@
                         <img src="img/team/4.png" alt="">
                         <h4 class="pt-4">CHISOM ALAOMA</h4>
                         <span class="d-block mb-2">Director</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                        <a href="https://twitter.com/laoma__?s=11" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.linkedin.com/in/chisom-alaoma-b39193123" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
@@ -151,8 +151,8 @@
                         <img src="img/team/3.png" alt="">
                         <h4 class="pt-4">EBUKA ARINZE</h4>
                         <span class="d-block mb-2">Head Of Operations</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                        <a href="https://twitter.com/Ebuka_arinze" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.linkedin.com/in/ebukaarinze1" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
@@ -160,8 +160,8 @@
                         <img src="img/team/8.png" alt="">
                         <h4 class="pt-4">RAPHAEL A. UFUOMA</h4>
                         <span class="d-block mb-2">Network Engineer</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                        <a href="https://twitter.com/deejay_raphy?s=11" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="http://linkedin.com/in/raphael-akalusi-84b0a3142" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
@@ -169,8 +169,8 @@
                         <img src="img/team/5.png" alt="">
                         <h4 class="pt-4">EFOSA JEFFREY</h4>
                         <span class="d-block mb-2">Software Engineer</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                        <a href="https://twitter.com/efosa_j" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.linkedin.com/in/jeffrey-okooboh-091a47191" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
@@ -178,8 +178,8 @@
                         <img src="img/team/7.png" alt="">
                         <h4 class="pt-4">NWAOBI DANIEL</h4>
                         <span class="d-block mb-2">Graphics Designer</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                        <a href="https://twitter.com/0x00CCSec" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.linkedin.com/in/nwaobidaniel" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
@@ -187,8 +187,8 @@
                         <img src="img/team/6.png" alt="">
                         <h4 class="pt-4">OMORUYI NATHANIEL</h4>
                         <span class="d-block mb-2">Sales Personnel</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                        <a href="https://www.linkedin.com/in/jeffrey-okooboh-091a47191/" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.linkedin.com/in/nathanielomoruyi" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
@@ -196,8 +196,8 @@
                         <img src="img/team/9.png" alt="">
                         <h4 class="pt-4">OMOTOYOSI AYANLEYE</h4>
                         <span class="d-block mb-2">Human Resource Manager</span>
-                        <a href="https://twitter.com/wisper_ng" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <!-- <a href="internet.html">Learn More <i class="fa fa-angle-right"></i></a> -->
+                        <a href="https://twitter.com/M_toyosi" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.linkedin.com/in/omotoyosi-goodness-893551167" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>       
             </div>

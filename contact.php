@@ -118,6 +118,31 @@
                         </form>
                     </div>
                     <!-- End of Contact Form -->
+
+
+                    <!-- Form success Button trigger modal -->
+                    <button type="button" id="successBtn" class="btn btn-primary " data-bs-toggle="modal"
+                    data-bs-target="#exampleModal">
+                    Success
+                    </button>
+
+                    <!-- Form success modal -->
+                    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered">
+                            <div class="modal-content">
+                            <div class="modal-body text-center px-5 py-5">
+                                <h5 id="success" class="text-success" role="alert">
+
+                                </h5>
+                                <img width="150" class="pt-3" src="./images/check.jpg" alt="success">
+                                <div class="d-grid gap-2 pt-5">
+                                <button class="btn btn-lg btn-success" data-bs-dismiss="modal" type="button">OK</button>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
