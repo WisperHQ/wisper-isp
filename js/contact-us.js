@@ -15,12 +15,9 @@ const formSubmissionHandler = async (event) => {
   displaySubmitButtonMsg();
 
   try {
-    const { isSuccess, message } = await sendEmail(
-      formElement,
-      body,
-      emailFrom,
-      emailTo
-    );
+    const { isSuccess, message } =
+      isValidSubmission(formElement) &&
+      (await sendEmail(formElement, body, emailFrom, emailTo));
 
     // set the form submission response message
     displayServerResponseMessage(isSuccess, message);
@@ -111,6 +108,11 @@ const removeSubmitButtonMsg = () => {
   btn.innerText = "Send Message";
   btn.disabled = false;
 };
+
+const isValidSubmission = (formElement) =>
+  formElement["name"].checkValidity() &&
+  formElement["message"].checkValidity() &&
+  formElement["email"].checkValidity();
 
 // main program
 const main = () => {

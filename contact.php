@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from themelooks.net/demo/Wisper/html/preview/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 09:25:03 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -140,8 +139,8 @@
 
                                 </h5>
                                 <img width="150" class="pt-3" src="img/check.jpg" alt="success">
-                                <div class="d-grid gap-2 pt-5">
-                                <button class="btn btn-lg btn-success" data-dismiss="modal" type="button">OK</button>
+                                <div class="d-grid gap-2 pt-4">
+                                <button class="btn btn-lg btn-block btn-success" data-dismiss="modal" type="button"><b>OK</b></button>
                                 </div>
                             </div>
                             </div>
@@ -181,5 +180,4 @@
     <script src="js/contact-us.js"></script>
 </body>
 
-<!-- Mirrored from themelooks.net/demo/Wisper/html/preview/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 09:25:03 GMT -->
 </html>
