@@ -148,7 +148,7 @@
             <div class="row text-white">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img  src="img/icons/earth.svg" alt="" class="svg text-white">
+                        <img  src="img/icons/earth.svg" alt="" class="svg">
                         <h4 class="text-white">Internet For Remote</h4>
                         <p>Get fast and reliable internet service for you remote staffs at the comfort of their homes</p>
                         <a class="text-white" href="internet-remote-work.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -156,7 +156,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/icons/phone.svg" alt="" class="svg text-white">
+                        <img src="img/icons/phone.svg" alt="" class="svg">
                         <h4 class="text-white">Wisper Mobile</h4>
                         <p>Save money now while enjoying fast and reliable internet service. Affordable Internet for all.</p>
                         <a class="text-white" href="internet-wisper-mobile.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -164,7 +164,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
-                        <img src="img/icons/tv.svg" alt="" class="svg text-white">
+                        <img src="img/icons/tv.svg" alt="" class="svg">
                         <h4 class="text-white">Internet for Home and SME</h4>
                         <p>Starting at ₦6,600/mo. you can now connect your family and enjoy unlimited streaming and many more</p>
                         <a class="text-white" href="internet-home-sme.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -172,7 +172,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
-                        <img src="img/icons/server.svg" alt="" class="svg text-white">
+                        <img src="img/icons/server.svg" alt="" class="svg">
                         <h4 class="text-white">Internet For Corporate</h4>
                         <p>With our dedicated internet services, enjoy guaranteed high speed with a 97.8% SLA on our services.</p>
                         <a class="text-white" href="internet-corporate.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -186,80 +186,160 @@
     <!-- Packages Wrap -->
     <section class="pt-120 pb-55">
         <div class="container">
-            <div class="row justify-content-center">
+            <!-- <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>Choose Affordable Packages</h2>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             
             <!-- Packages -->
             <div class="row pb-90">
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h4>Personal Pack</h4>
-                        <span>for personal user</span>
-                        <hr>
-                        <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>15 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>01 year</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
-                        </ul>
-                        <p><sup>$</sup>12.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+                <div class="col-lg-6">
+                    <div class="service-details" data-animate="fadeInUp" data-delay=".1">
+                        <h1>Affordable Internet Data For All. You don't need to have a wisper mobile sim card on your phone to access these prices for data. </h1>
+                        <p>Wisper is a virtual mobile network that allows you to buy internet data plans at an affordable rate. Our goal is to help you reduce how much you spend on data and still enjoy fast and reliable internet.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
-                        <span class="pupular-pack">Most popular package</span>
-                        <h4>Family Pack</h4>
-                        <span>for family user</span>
-                        <hr>
-                        <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>25 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>02 year</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
-                        </ul>
-                        <p><sup>$</sup>24.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
+                                <span class="pupular-pack">Most popular package</span>
+                                <h4>10 GB Data Plan</h4>
+                                <span>30 Days Validity</span>
+                                <hr>
+                                <ul class="list-unstyled">
+                                    <li>Instant Data Allocation</li>
+                                    <li>24/7 Support</li>
+                                    <li>No New Sim Required</li>
+                                    <li>Available for you Number</li>
+                                <!-- <li>Unlimited bandwidth</li> -->
+                                </ul>
+                                <p><sup>₦</sup>2,500<span>/Valid for 1 Month</span></p>
+                                <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
+                                <h4>1 GB Data Plan</h4>
+                                <span>30 Days Validity</span>
+                                <hr>
+                                <ul class="list-unstyled">
+                                    <li>Instant Data Allocation</li>
+                                    <li>24/7 Support</li>
+                                    <li>No New Sim Required</li>
+                                    <li>Available for you Number</li>
+                                <!-- <li>Unlimited bandwidth</li> -->
+                                </ul>
+                                <p><sup>₦</sup>290<span>/Valid for 1 Month</span></p>
+                                <a href="https://mobile.wisper.ng/buy" class="btn">Purchase Now</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
-                        <h4>Business Pack</h4>
-                        <span>for business user</span>
-                        <hr>
-                        <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>30 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>03 year</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
-                        </ul>
-                        <p><sup>$</sup>49.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+            </div>
+
+            <div class="row pb-90">
+                <div class="col-lg-6 order-last order-sm-first">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
+                                <h4>Silver Plan</h4>
+                                <span>30 Days Validity</span>
+                                <hr>
+                                <ul class="list-unstyled">
+                                    <li>Up to 5 Mbps</li>
+                                    <li>Free internet survey, testing and deployment at your location</li>
+                                    <li>Free network equipment and Installation</li>
+                                    <li>Free 3-days test trial</li>
+                                    <li>Regular or routine network analysis and reporting</li>
+                                    <li>Shared Internet Connection</li>
+                                    <li>Installation cost: ₦ 65,500 which includes Radio, Router & Cables<li>
+                                </ul>
+                                <p><sup>₦</sup>38,000 <span>/Monthly</span></p>
+                                <a href="subscription.php" class="btn">Order This Plan</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
+                                <span class="pupular-pack">Most popular package</span>
+                                <h4>Stream Plan</h4>
+                                <span>30 Days Validity</span>
+                                <hr>
+                                <ul class="list-unstyled">
+                                    <li>Up to 5 Mbps</li>
+                                    <li>Free internet survey, testing and deployment at your location</li>
+                                    <li>Free network equipment and Installation</li>
+                                    <li>Free 3-days test trial</li>
+                                    <li>Regular or routine network analysis and reporting</li>
+                                    <li>Shared Internet Connection</li>
+                                    <li>Installation cost: ₦ 39,000 which includes Radio, Router & Cables</li>
+                                </ul>
+                                <p><sup>₦</sup>12,500 <span>/Monthly</span></p>
+                                <a href="subscription.php" class="btn">Order This Plan</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-package text-center" data-animate="fadeInUp" data-delay="1">
-                        <h4>Corporate Pack</h4>
-                        <span>for corporate user</span>
-                        <hr>
-                        <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>39 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>Unlimited</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
-                        </ul>
-                        <p><sup>$</sup>79.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+                <div class="col-lg-6 order-first order-sm-second">
+                    <div class="service-details" data-animate="fadeInUp" data-delay=".1">
+                        <h1>Enjoy fast and easy internet from the comfort of your home</h1>
+                        <p>Wisper is a virtual mobile network that allows you to buy internet data plans at an affordable rate. Our goal is to help you reduce how much you spend on data and still enjoy fast and reliable internet.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row pb-90">
+                <div class="col-lg-6">
+                    <div class="service-details" data-animate="fadeInUp" data-delay=".1">
+                        <h1>Our Corporate plans are tailored to meet your specific needs</h1>
+                        <p>Wisper is a virtual mobile network that allows you to buy internet data plans at an affordable rate. Our goal is to help you reduce how much you spend on data and still enjoy fast and reliable internet.</p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
+                                <span class="pupular-pack">Most popular package</span>
+                                <h4>5 Mbps</h4>
+                                <span>30 Days Validity</span>
+                                <hr>
+                                <ul class="list-unstyled">
+                                    <li>Unlimited data.</li>
+                                    <li>Guaranteed speed</li>
+                                    <li>Free internet survey, testing and deployment at your location</li>
+                                    <li>Free network equipment and Installation</li>
+                                    <li>Free 3-days test trial</li>
+                                    <li>Regular or routine network analysis and reporting</li>
+                                    <li>Shared Internet Connection</li>
+                                    <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
+                                </ul>
+                                <p><sup>₦</sup>87,000 <span>/Monthly</span></p>
+                                <a href="subscription.php" class="btn">Order This Plan</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
+                                <h4>30 Mbps</h4>
+                                <span>30 Days Validity</span>
+                                <hr>
+                                <ul class="list-unstyled">
+                                    <li>Unlimited data.</li>
+                                    <li>Guaranteed speed</li>
+                                    <li>Free internet survey, testing and deployment at your location</li>
+                                    <li>Free network equipment and Installation</li>
+                                    <li>Free 3-days test trial</li>
+                                    <li>Regular or routine network analysis and reporting</li>
+                                    <li>Shared Internet Connection</li>
+                                    <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
+                                </ul>
+                                <p><sup>₦</sup>370,000 <span>/Monthly</span></p>
+                                <a href="subscription.php" class="btn">Order This Plan</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

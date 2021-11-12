@@ -11,7 +11,7 @@
                 <div class="col-lg-6 col-md-7">
                     <!-- Subscription form -->
                     <div class="subscription-form" data-animate="fadeInUp" data-delay=".4">
-                        <form class="parsley-validate" action="https://themelooks.us13.list-manage.com/subscribe/post?u=79f0b132ec25ee223bb41835f&amp;id=f4e0e93d1d" method="post" name="mc-embedded-subscribe-form" target="_blank">
+                        <form class="parsley-validate" action="" method="post" name="mc-embedded-subscribe-form">
                             <input type="email" name="EMAIL" class="theme-input-style" placeholder="Enter your e-mail address" required>
                             <button class="btn" type="submit">Subscribe Now</button>
                         </form>
