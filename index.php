@@ -166,7 +166,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
                         <img src="img/icons/tv.svg" alt="" class="svg text-dark">
                         <h4 class="text-dark">Internet for Home and SME</h4>
-                        <p>For as low as  ₦6,600/month, you can enjoy internet connection for your homes for streaming movies, live sport games, and connecting your family to the internet.</p>
+                        <p>For as low as  ₦6,600/month, you can enjoy internet connection for your homes for streaming movies, and connecting your family to the internet.</p>
                         <a class="text-white" href="internet-home-sme.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -174,7 +174,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
                         <img src="img/icons/server.svg" alt="" class="svg text-dark">
                         <h4 class="text-dark">Internet For Corporate</h4>
-                        <p>We offer dedicated internet services, with guaranteed high speed and 99.9% SLA on our services.</p>
+                        <p>We offer dedicated internet services for all Corporate businesses, with guaranteed high speed and 99.9% SLA on our services.</p>
                         <a class="text-white" href="internet-corporate.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -199,8 +199,9 @@
             <div class="row pb-90">
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
-                        <h1>Affordable Internet Data For All. You don't need to have a wisper mobile sim card on your phone to access these prices for data. </h1>
-                        <p>Wisper is a virtual mobile network that allows you to buy internet data plans at an affordable rate. Our goal is to help you reduce how much you spend on data and still enjoy fast and reliable internet.</p>
+                        <h1>Affordable Internet Data For All.</h1>
+                        <p>Buy your internet data from Wisper Mobile today and save 30% of your monthly internet subscription budget. Start shopping now !</p>
+						<a data-animate="fadeInUp" data-delay=".6" href="wisper-mobile.php" class="btn">Learn More</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -344,86 +345,6 @@
                 </div>
             </div>
             <!-- End of Packages -->
-
-            <!-- Packages Includes -->
-            <div class="row justify-content-center">
-                <div class="col-xl-6 col-lg-8 col-md-10">
-                    <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h2>All Plans Included</h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".05">
-                        <div class="single-feature-img">
-                            <img src="img/icons/ftp.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-feature-content">
-                            <h4>Own FTP Server</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".2">
-                        <div class="single-feature-img">
-                            <img src="img/icons/upgrade.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-feature-content">
-                            <h4>Upgrade or Downgrade</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".35">
-                        <div class="single-feature-img">
-                            <img src="img/icons/data.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-feature-content">
-                            <h4>No Hard Data Limit</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".5">
-                        <div class="single-feature-img">
-                            <img src="img/icons/lock.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-feature-content">
-                            <h4>Lock in Low Rates</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
-                        <div class="single-feature-img">
-                            <img src="img/icons/cloud.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-feature-content">
-                            <h4>No Video Streaming</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".8">
-                        <div class="single-feature-img">
-                            <img src="img/icons/access.svg" alt="" class="svg">
-                        </div>
-                        <div class="single-feature-content">
-                            <h4>Access to All Website</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End of Packages Includes -->
         </div>
     </section>
     <!-- End of Packages Wrap -->
