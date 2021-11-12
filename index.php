@@ -34,7 +34,7 @@
     <?php require "header.php" ?>
     <!-- End of Main header -->
 
-    <!-- Banner -->
+       <!-- Banner -->
     <section>
         <div class="main-slider swiper-container">
             <div class="swiper-wrapper">
@@ -45,9 +45,9 @@
                         <div class="row align-items-center">
                             <div class="col-xl-6 col-lg-8">
                                 <div class="slide-content-inner">
-                                    <h4 data-animate="fadeInUp" data-delay=".05">Best Internet Service Provider In USA</h4>
-                                    <h2 data-animate="fadeInUp" data-delay=".3">Don’t Suffer The Buffer Speeds Up to 1 Gbps with Unlimited Data</h2>
-                                    <a data-animate="fadeInUp" data-delay=".6" href="#" class="btn">Learn More</a>
+                                    <h4 data-animate="fadeInUp" data-delay=".05">Fast. Reliable. Efficient</h4>
+                                    <h2 data-animate="fadeInUp" data-delay=".3">Get set for a whole new internet experience</h2>
+                                    <!--<a data-animate="fadeInUp" data-delay=".6" href="#" class="btn">Learn More</a>-->
                                 </div>
                             </div>
                         </div>
@@ -62,9 +62,9 @@
                         <div class="row align-items-center">
                             <div class=" col-xl-6 col-lg-8">
                                 <div class="slide-content-inner">
-                                    <h4 data-animate="fadeInUp" data-delay=".05">There is Now Way to Become a Internet User</h4>
-                                    <h2 data-animate="fadeInUp" data-delay=".3">Now a Days Internet Is a Useful Thing, Not Passion</h2>
-                                    <a data-animate="fadeInUp" data-delay=".6" href="#" class="btn">Learn More</a>
+                                    <h4 data-animate="fadeInUp" data-delay=".05">Internet At The Snap Of Your Fingers</h4>
+                                    <h2 data-animate="fadeInUp" data-delay=".3">Hop on to the speed side of things</h2>
+                                    <<!--<a data-animate="fadeInUp" data-delay=".6" href="#" class="btn">Learn More</a>-->
                                 </div>
                             </div>
                         </div>
@@ -140,41 +140,41 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title section-title-white text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Services We Provide</h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour.</p>
+                        <h2>Our Services</h2>
+                        <p>With our wide range of quality products and services, Wisper Technologies has something for everyone!</p>
                     </div>
                 </div>
             </div>
             <div class="row text-white">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img  src="img/icons/earth.svg" alt="" class="svg">
-                        <h4 class="text-white">Internet For Remote</h4>
-                        <p>Get fast and reliable internet service for you remote staffs at the comfort of their homes</p>
+                        <img  src="img/icons/earth.svg" alt="" class="svg text-dark">
+                        <h4 class="text-dark">Internet For Remote</h4>
+                        <p>Bring your remote teams closer together, improve productivity, and get more done in less time with our ultra-fast internet service.</p>
                         <a class="text-white" href="internet-remote-work.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/icons/phone.svg" alt="" class="svg">
-                        <h4 class="text-white">Wisper Mobile</h4>
-                        <p>Save money now while enjoying fast and reliable internet service. Affordable Internet for all.</p>
+                        <img src="img/icons/phone.svg" alt="" class="svg text-dark">
+                        <h4 class="text-dark">Wisper Mobile</h4>
+                        <p>Stay connected with family and loved ones, and never miss out on live updates with Wisper Mobile packages for your smartphones!</p>
                         <a class="text-white" href="internet-wisper-mobile.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
-                        <img src="img/icons/tv.svg" alt="" class="svg">
-                        <h4 class="text-white">Internet for Home and SME</h4>
-                        <p>Starting at ₦6,600/mo. you can now connect your family and enjoy unlimited streaming and many more</p>
+                        <img src="img/icons/tv.svg" alt="" class="svg text-dark">
+                        <h4 class="text-dark">Internet for Home and SME</h4>
+                        <p>For as low as  ₦6,600/month, you can enjoy internet connection for your homes for streaming movies, live sport games, and connecting your family to the internet.</p>
                         <a class="text-white" href="internet-home-sme.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
-                        <img src="img/icons/server.svg" alt="" class="svg">
-                        <h4 class="text-white">Internet For Corporate</h4>
-                        <p>With our dedicated internet services, enjoy guaranteed high speed with a 97.8% SLA on our services.</p>
+                        <img src="img/icons/server.svg" alt="" class="svg text-dark">
+                        <h4 class="text-dark">Internet For Corporate</h4>
+                        <p>We offer dedicated internet services, with guaranteed high speed and 99.9% SLA on our services.</p>
                         <a class="text-white" href="internet-corporate.php">Learn More <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
