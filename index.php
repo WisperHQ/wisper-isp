@@ -200,7 +200,7 @@
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h1>Affordable Internet Data For All.</h1>
-                        <p>Buy your internet data from Wisper Mobile today and save 30% of your monthly internet subscription budget. Start shopping now !</p>
+                        <h2>Buy your internet data from Wisper Mobile today and save 30% of your monthly internet subscription budget. Start shopping now !</h2>
 						<a data-animate="fadeInUp" data-delay=".6" href="wisper-mobile.php" class="btn">Learn More</a>
                     </div>
                 </div>
@@ -255,10 +255,7 @@
                                     <li>Up to 5 Mbps</li>
                                     <li>Free internet survey, testing and deployment at your location</li>
                                     <li>Free network equipment and Installation</li>
-                                    <li>Free 3-days test trial</li>
-                                    <li>Regular or routine network analysis and reporting</li>
-                                    <li>Shared Internet Connection</li>
-                                    <li>Installation cost: ₦ 65,500 which includes Radio, Router & Cables<li>
+                                    <li>Free 3-days test trial etc. </li>
                                 </ul>
                                 <p><sup>₦</sup>38,000 <span>/Monthly</span></p>
                                 <a href="subscription.php" class="btn">Order This Plan</a>
@@ -274,10 +271,7 @@
                                     <li>Up to 5 Mbps</li>
                                     <li>Free internet survey, testing and deployment at your location</li>
                                     <li>Free network equipment and Installation</li>
-                                    <li>Free 3-days test trial</li>
-                                    <li>Regular or routine network analysis and reporting</li>
-                                    <li>Shared Internet Connection</li>
-                                    <li>Installation cost: ₦ 39,000 which includes Radio, Router & Cables</li>
+                                    <li>Free 3-days test trial etc.</li>
                                 </ul>
                                 <p><sup>₦</sup>12,500 <span>/Monthly</span></p>
                                 <a href="subscription.php" class="btn">Order This Plan</a>
@@ -288,7 +282,7 @@
                 <div class="col-lg-6 order-first order-sm-second">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h1>Enjoy fast and easy internet from the comfort of your home</h1>
-                        <p>Wisper is a virtual mobile network that allows you to buy internet data plans at an affordable rate. Our goal is to help you reduce how much you spend on data and still enjoy fast and reliable internet.</p>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -297,7 +291,7 @@
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h1>Our Corporate plans are tailored to meet your specific needs</h1>
-                        <p>Wisper is a virtual mobile network that allows you to buy internet data plans at an affordable rate. Our goal is to help you reduce how much you spend on data and still enjoy fast and reliable internet.</p>
+                        <h2>Wisper is a virtual mobile network that allows you to buy internet data plans at an affordable rate. Our goal is to help you reduce how much you spend on data and still enjoy fast and reliable internet.</h2>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -314,9 +308,6 @@
                                     <li>Free internet survey, testing and deployment at your location</li>
                                     <li>Free network equipment and Installation</li>
                                     <li>Free 3-days test trial</li>
-                                    <li>Regular or routine network analysis and reporting</li>
-                                    <li>Shared Internet Connection</li>
-                                    <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
                                 </ul>
                                 <p><sup>₦</sup>87,000 <span>/Monthly</span></p>
                                 <a href="subscription.php" class="btn">Order This Plan</a>
@@ -333,9 +324,6 @@
                                     <li>Free internet survey, testing and deployment at your location</li>
                                     <li>Free network equipment and Installation</li>
                                     <li>Free 3-days test trial</li>
-                                    <li>Regular or routine network analysis and reporting</li>
-                                    <li>Shared Internet Connection</li>
-                                    <li>Installation cost: ₦ 89,200 which includes Radio, Router & Cables<li>
                                 </ul>
                                 <p><sup>₦</sup>370,000 <span>/Monthly</span></p>
                                 <a href="subscription.php" class="btn">Order This Plan</a>
