@@ -327,7 +327,7 @@
                     <div class="faq pb-50" data-animate="fadeInUp" data-delay=".1">
                         <div class="section-title">
                             <h2>Frequently Asked Questions</h2>
-                            <p>Can I buy Data for my current phone numbers?</p>
+                            <p>THERE ARE NO STUPID QUESTIONS, JUST FREQUENTLY ASKED ONES.</p>
                         </div>
                         <div class="accordion" id="accordionFaq">
                             <div class="single-faq">
