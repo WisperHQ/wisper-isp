@@ -40,7 +40,7 @@
             <div class="row">
                 <div class="col">
                     <div class="page-title" data-animate="fadeInUp" data-delay="1.2">
-                        <h2>High Speed Internet</h2>
+                        <h2>Enjoy Unlimited Dedicated Internet for your Business. Pay for Speed, Not Size.</h2>
                         <ul class="list-unstyled m-0 d-flex">
                             <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
                             <li><a href="services.html">Services</a></li>
@@ -59,7 +59,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Enjoy high speed internet up to 1Gbps download speed from <span>$05.50/m</span></h2>
+                        <h2>Unlimited Data and Guaranteed Speed up to <span>100Mbps</span> for your Business and get more work done.</h2>
                         <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
                         <p><i>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</i></p>
                         <ul class="rubik list-unstyled m-0 clearfix">
