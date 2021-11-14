@@ -61,8 +61,8 @@
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h2>Affordable Internet Data For All. Start From <span>₦300/GB</span></h2>
                         <p>Wisper is a virtual mobile network that allows you to buy internet data plans at an affordable rate. Our goal is to help you reduce how much you spend on data and still enjoy fast and reliable internet.</p>
-                        <p>A Service, not a SIM. You don't need to have a wisper mobile sim card on your phone to access these prices for data. All you need is your current network operator and your mobile phone. Our Service is to offer you affordable internet.</p>
-                        <p>Our flexibility enables us to meet the needs of niche markets: the SME market, the tourist market, the "ethnic" market, the cooperatives, etc.</p>
+                        <p>You don't need to have a wisper mobile sim card on your phone to access these prices for data. All you need is your current network operator and your mobile phone.</p>
+                        <p>Our vision for wisper mobile is to ensure everyone can access the internet at an affordable rate. Stop wasting money on expensive data plans and start shopping with wisper mobile.</p>
                         <ul class="rubik list-unstyled m-0 clearfix">
                             <li>Save More Money</li>
                             <li>Enjoy Amazing Support</li>

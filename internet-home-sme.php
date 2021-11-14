@@ -59,7 +59,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Enjoy high speed internet up to 1Gbps download speed from <span>$05.50/m</span></h2>
+                        <h2>Enjoy Speed up to <span>155Mbps </span>for your Homes and offices.</h2>
                         <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
                         <p><i>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</i></p>
                         <ul class="rubik list-unstyled m-0 clearfix">
