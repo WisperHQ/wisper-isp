@@ -74,7 +74,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="service-img text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/internet.png" alt="" data-rjs="2">
+                        <img src="img/home.png" alt="" data-rjs="2">
                     </div>
                 </div>
             </div>
