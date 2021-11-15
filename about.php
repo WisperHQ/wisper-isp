@@ -77,7 +77,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="single-about-us" data-animate="fadeInUp" data-delay=".4">
-                        <h3 class="h4">Our Vission</h3>
+                        <h3 class="h4">Our Vision</h3>
                         <p>Our vision is to fuel Nigeria’s venture into the global digital space by providing super fast internet service across the country. We are ushering the new generation of Africans ready to explore new opportunities through digitization.</p>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                         <div class="single-feature-img">
-                            <img src="img/icons/support.svg" alt="" class="svg">
+                            <img src="img/icons/24.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>24/7 Customer Support</h4>
