@@ -352,36 +352,36 @@
                     <div class="faq pb-50" data-animate="fadeInUp" data-delay=".1">
                         <div class="section-title">
                             <h2>Frequently Asked Questions</h2>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p>
+                            <!-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p> -->
                         </div>
                         <div class="accordion" id="accordionFaq">
                             <div class="single-faq">
                                 <div class="faq-title d-flex align-items-center">
-                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">I can’t access my internet. How do i contact with support center?</h3>
+                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">How do I make payment?</h3>
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordionFaq">
                                     <div class="faq-answer">
-                                        <p><span>Ans: </span>I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+                                        <p><span>Ans: </span>You can make payments to Wisper by Cheque, by Cash, online Payment, online transfer, (the bank details shall be provided by the Accounts Department on request).</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="single-faq">
                                 <div class="faq-title d-flex align-items-center">
-                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">I already paid my bill but still its showing Due. Why is that?</h3>
+                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">How many users can concurrently connect to Wisper?</h3>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordionFaq">
                                     <div class="faq-answer">
-                                        <p><span>Ans: </span>Pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                        <p><span>Ans: </span>The number of users that can concurrently connects to Wisper will depend on your access plan. Up to 5PC and 20 devices can simultaneously access the internet using lite plan, stream plan, and with Premium plan you select the throughput speeds to fit the needs of your business.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="single-faq">
                                 <div class="faq-title d-flex align-items-center">
-                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">How can I contact with your emergency higher management?</h3>
+                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Can I switch between different plans and do I have to pay an extra cost to switch?</h3>
                                 </div>
                                 <div id="collapseThree" class="collapse" data-parent="#accordionFaq">
                                     <div class="faq-answer">
-                                        <p><span>Ans: </span>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                        <p><span>Ans: </span>You can switch between data plans without incurring any addition cost. Only the cost of the access plan you are migrating to.</p>
                                     </div>
                                 </div>
                             </div>
@@ -392,7 +392,7 @@
                     <div class="popup-video mb-50" data-animate="fadeInUp" data-delay=".5">
                         <img src="img/video-thumb.jpg" data-rjs="2" alt="">
                         <a href="https://www.youtube.com/watch?v=6ZfuNTqbHE8" class="youtube-popup play-btn ripple">
-                            <i class="fa fa-play"></i>
+                            /* <i class="fa fa-play"></i> */
                         </a>
                     </div>
                 </div>
@@ -402,7 +402,7 @@
     <!-- End of FAQ -->
 
     <!-- Reviews -->
-    <?php require "reviews.php" ?>
+    <!--  <?php require "reviews.php" ?> -->
     <!-- End of Reviews -->
 
      <!-- Footer -->

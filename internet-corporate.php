@@ -432,7 +432,7 @@
     <!-- End of FAQ -->
 
     <!-- Reviews -->
-    /* <?php require "reviews.php" ?> */
+    <?php require "reviews.php" ?>
     <!-- End of Reviews -->
 
      <!-- Footer -->
