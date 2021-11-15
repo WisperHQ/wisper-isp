@@ -121,7 +121,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                         <div class="single-feature-img">
-                            <img src="img/icons/support.svg" alt="" class="svg">
+                            <img src="img/icons/24.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>24/7 Customer Support</h4>
