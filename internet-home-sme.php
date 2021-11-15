@@ -275,7 +275,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".5">
                         <div class="single-feature-img">
-                            <img src="img/icons/12.svg" alt="" class="png">
+                            <img src="img/icons/12.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Bandwidth Management system</h4>
