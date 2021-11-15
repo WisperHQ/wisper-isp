@@ -68,7 +68,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row mb-5">
                 <div class="col-md-6">
                     <div class="single-about-us" data-animate="fadeInUp" data-delay=".1">
                         <h3 class="h4">Our Mission</h3>
@@ -122,7 +122,7 @@
     <!-- End of Abut Us -->
 
    <!-- Reviews -->
-   <?php require "reviews.php" ?>
+   
     <!-- End of Reviews -->
 
     <!-- Services -->

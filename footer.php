@@ -56,24 +56,14 @@
                     <!-- Footer Widget -->
                     <div class="col-lg-4 col-sm-6">
                         <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".1">
-                            <h3 class="h4">Contact Us</h3>
-                            <div class="contact-widget-content">
-                                <p>Creating reliable and affordable internet services and products for all.</p>
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <i class="fa fa-phone"></i>
-                                        <a href="tel:+2349057790907">(+234) 905 779 0907</a>, &nbsp;
-                                        <a href="tel:++2348039255522">(+234) 803 925 5522</a>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-envelope-o"></i>
-                                        <a href="mailto:contact@wisper.ng">contact@wisper.ng</a>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-map-marker"></i>
-                                        <span>Plot 1193, Kasumu Ekemode, Victoria Island, 101241, Lagos</span>
-                                    </li>
-                                </ul>
+                            <div class="logo pb-3">
+                                <a href="index.php">
+                                    <img src="img/logo.png" width="130" data-rjs="2" alt="VPNet">
+                                </a>
+                            </div>
+                            <div class="single-service contact-widget-content">
+                                <p>Wisper Technologies offer super fast internet for homes and businesses at affordable rates. Our goal is to redefine the internet experience for Nigerians.</p>
+                                <a href="about.php">LEARN MORE</a>
                             </div>
                         </div>
                     </div>
@@ -83,16 +73,33 @@
                     <!-- Footer Widget -->
                     <div class="col-lg-4 col-sm-6">
                         <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".5">
-                            <h3 class="h4">Support Links</h3>
-                            <div class="menu-wrap">
-                                <ul class="menu">
-                                    <li><a href="#">Bill & Payment Methods</a></li>
-                                    <li><a href="#">Support Forums</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
-                                    <li><a href="#">Service Agreement</a></li>
-                                    <li><a href="#">Terms and Agreement</a></li>
-                                </ul>
-                            </div>
+                            <h3 class="h4">Contact Us</h3>
+                                <div class="contact-widget-content">
+                                    <p>Creating reliable and affordable internet services and products for all.</p>
+                                    <ul class="list-unstyled">
+                                        <li>
+                                            <i class="fa fa-phone"></i>
+                                            <a href="tel:+2349057790907">(+234) 905 779 0907</a>, &nbsp;
+                                            <a href="tel:++2348039255522">(+234) 803 925 5522</a>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-envelope-o"></i>
+                                            <a href="mailto:contact@wisper.ng">contact@wisper.ng</a>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-map-marker"></i>
+                                            <span>Plot 1193, Kasumu Ekemode, Victoria Island, 101241, Lagos</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-map-marker"></i>
+                                            <span>No 1 Robinson Avenue BDPA Ugbowo, Benin City, Edo State</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-map-marker"></i>
+                                            <span>301, Warri Sapale Road, Delta State</span>
+                                        </li>
+                                    </ul>
+                                </div>
                         </div>
                     </div>
                     <!-- End of Footer Widget -->

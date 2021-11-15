@@ -19,10 +19,8 @@
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="plugins/swiper/swiper.min.css">
     <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.min.css">
-    <link rel="stylesheet" href="plugins/color-switcher/color-switcher.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="css/colors/theme-color-1.css">
     <link rel="stylesheet" href="css/custom.css">
 </head>
 
@@ -421,9 +419,6 @@
                 <div class="col-lg-6">
                     <div class="popup-video mb-50" data-animate="fadeInUp" data-delay=".5">
                         <img src="img/video-thumb.jpg" data-rjs="2" alt="">
-                        <a href="https://www.youtube.com/watch?v=6ZfuNTqbHE8" class="youtube-popup play-btn ripple">
-                            <i class="fa fa-play"></i>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -432,7 +427,7 @@
     <!-- End of FAQ -->
 
     <!-- Reviews -->
-    <?php require "reviews.php" ?>
+    
     <!-- End of Reviews -->
 
      <!-- Footer -->
@@ -452,7 +447,6 @@
     <script src="plugins/swiper/swiper.min.js"></script>
     <script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
     <script src="plugins/parsley/parsley.min.js"></script>
-    <script src="plugins/color-switcher/color-switcher.js"></script>
     <script src="plugins/retinajs/retina.min.js"></script>
     <script src="plugins/isotope/isotope.pkgd.min.js"></script>
     <script src="js/menu.min.js"></script>

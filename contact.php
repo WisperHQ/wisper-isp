@@ -77,6 +77,14 @@
                                         <i class="fa fa-map-marker"></i>
                                         <span>Plot 1193, Kasumu Ekemode, Victoria Island, 101241, Lagos</span>
                                     </li>
+                                    <li>
+                                            <i class="fa fa-map-marker"></i>
+                                            <span>No 1 Robinson Avenue BDPA Ugbowo, Benin City, Edo State</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-map-marker"></i>
+                                            <span>301, Warri Sapale Road, Delta State</span>
+                                        </li>
                                 </ul>
                             </div>
                         </div>
