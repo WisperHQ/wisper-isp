@@ -250,7 +250,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".05">
                         <div class="single-feature-img">
-                            <img src="img/icons/ftp.svg" alt="" class="svg">
+                            <img src="img/icons/17.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Visit Website</h4>
@@ -261,7 +261,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".2">
                         <div class="single-feature-img">
-                            <img src="img/icons/upgrade.svg" alt="" class="svg">
+                            <img src="img/icons/18.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Network and Plans</h4>
@@ -272,7 +272,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".35">
                         <div class="single-feature-img">
-                            <img src="img/icons/data.svg" alt="" class="svg">
+                            <img src="img/icons/19.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Payment and Enjoy Data</h4>
