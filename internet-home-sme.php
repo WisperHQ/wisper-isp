@@ -242,7 +242,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".05">
                         <div class="single-feature-img">
-                            <img src="img/icons/ftp.svg" alt="" class="svg">
+                            <img src="img/icons/9.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                         <h4>Wisper ZERO Capping/ 4G Unlimited data Consumption</h4>
