@@ -99,7 +99,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
                         <div class="single-feature-img">
-                            <img src="img/icons/setup.svg" alt="" class="svg">
+                            <img src="img/icons/1.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Truly Unlimited Data</h4>
@@ -110,7 +110,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
                         <div class="single-feature-img">
-                            <img src="img/icons/download.svg" alt="" class="svg">
+                            <img src="img/icons/2.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Network reliability.</h4>
@@ -121,7 +121,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                         <div class="single-feature-img">
-                            <img src="img/icons/support.svg" alt="" class="svg">
+                            <img src="img/icons/24.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>24/7 Customer Support</h4>
@@ -148,7 +148,7 @@
             <div class="row text-white">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img  src="img/icons/earth.svg" alt="" class="svg text-dark">
+                        <img  src="img/icons/3.png" alt="" class="png">
                         <h4 class="text-dark">Internet For Remote</h4>
                         <p>Bring your remote teams closer together, improve productivity, and get more done in less time with our ultra-fast internet service.</p>
                         <a class="text-white" href="internet-remote-work.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -156,7 +156,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/icons/phone.svg" alt="" class="svg text-dark">
+                        <img src="img/icons/4.png" alt="" class="png">
                         <h4 class="text-dark">Wisper Mobile</h4>
                         <p>Stay connected with family and loved ones, and never miss out on live updates with Wisper Mobile packages for your smartphones!</p>
                         <a class="text-white" href="internet-wisper-mobile.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -164,7 +164,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
-                        <img src="img/icons/tv.svg" alt="" class="svg text-dark">
+                        <img src="img/icons/5.png" alt="" class="png">
                         <h4 class="text-dark">Internet for Home and SME</h4>
                         <p>For as low as  ₦6,600/month, you can enjoy internet connection for your homes for streaming movies, and connecting your family to the internet.</p>
                         <a class="text-white" href="internet-home-sme.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -172,7 +172,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
-                        <img src="img/icons/server.svg" alt="" class="svg text-dark">
+                        <img src="img/icons/6.png" alt="" class="png">
                         <h4 class="text-dark">Internet For Corporate</h4>
                         <p>We offer dedicated internet services for all Corporate businesses, with guaranteed high speed and 99.9% SLA on our services.</p>
                         <a class="text-white" href="internet-corporate.php">Learn More <i class="fa fa-angle-right"></i></a>

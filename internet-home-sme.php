@@ -59,7 +59,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Enjoy Speed up to <span>155Mbps </span>for your Homes and offices.</h2>
+                        <h2>Enjoy Speeds up to <span>155Mbps </span>for your Homes and offices.</h2>
                         <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
                         <p><i>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</i></p>
                         <ul class="rubik list-unstyled m-0 clearfix">
@@ -74,7 +74,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="service-img text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/internet.png" alt="" data-rjs="2">
+                        <img src="img/home.png" alt="" data-rjs="2">
                     </div>
                 </div>
             </div>
@@ -242,10 +242,10 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".05">
                         <div class="single-feature-img">
-                            <img src="img/icons/ftp.svg" alt="" class="svg">
+                            <img src="img/icons/9.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
-                            <h4>Wisper ZERO Capping/ 4G Unlimited data Consumption</h4>
+                        <h4>Wisper ZERO Capping/ 4G Unlimited data Consumption</h4>
 <!--                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p> -->
                         </div>
                     </div>
@@ -253,7 +253,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".2">
                         <div class="single-feature-img">
-                            <img src="img/icons/upgrade.svg" alt="" class="svg">
+                            <img src="img/icons/10.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Hybrid Backbone Design with Multiple Feed Redundancy</h4>
@@ -264,7 +264,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".35">
                         <div class="single-feature-img">
-                            <img src="img/icons/data.svg" alt="" class="svg">
+                            <img src="img/icons/8.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>75% High-Rate redundancy</h4>
@@ -275,7 +275,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".5">
                         <div class="single-feature-img">
-                            <img src="img/icons/lock.svg" alt="" class="svg">
+                            <img src="img/icons/12.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Bandwidth Management system</h4>
@@ -286,7 +286,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
                         <div class="single-feature-img">
-                            <img src="img/icons/cloud.svg" alt="" class="svg">
+                            <img src="img/icons/14.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Network Operations Center offering full technical support   </h4>
@@ -297,7 +297,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
                         <div class="single-feature-img">
-                            <img src="img/icons/cloud.svg" alt="" class="svg">
+                            <img src="img/icons/15.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Flexibility and affordable prices at 20% cheaper than market price</h4>
@@ -308,7 +308,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
                         <div class="single-feature-img">
-                            <img src="img/icons/cloud.svg" alt="" class="svg">
+                            <img src="img/icons/16.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Outstanding Customer Support ensuring excellent after sales customer satisfaction.</h4>
@@ -319,7 +319,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
                         <div class="single-feature-img">
-                            <img src="img/icons/cloud.svg" alt="" class="svg">
+                            <img src="img/icons/13.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Network Operations Center offering full technical support   </h4>
@@ -330,7 +330,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".8">
                         <div class="single-feature-img">
-                            <img src="img/icons/access.svg" alt="" class="svg">
+                            <img src="img/icons/10.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>24/7 Dedicated technical support</h4>
