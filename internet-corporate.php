@@ -59,16 +59,17 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Unlimited Data and Guaranteed Speed up to <span>100Mbps</span> for your Business and get more work done.</h2>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
-                        <p><i>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</i></p>
+                        <h2>Dedicated Internet up to <span>100Mbps</span> for your Business and get more work done.</h2>
+                        <p>Technology and network connections are becoming increasingly crucial for businesses all over the world. Today, the proper network connection can increase productivity, mitigate risk, and improve security for your business.</p>
+                        <p>A dedicated internet connection is a good option for businesses that need guaranteed speed and bandwidth. Companies that commonly have voluminous outgoing and incoming data transfers and high demand for bandwidth-heavy operations such as streaming, website operations, and backup servers will benefit from having a private connection.</p>
+						<p>Dedicated Internet is also good if 20 or more employees share a connection, and when uninterrupted uptime is vital. The only demands on the connection come from your business.</p>
                         <ul class="rubik list-unstyled m-0 clearfix">
-                            <li>WiFi control</li>
-                            <li>10 e-mail accounts</li>
-                            <li>Pro Installation</li>
-                            <li>Wall-to-Wall Fast WiFi</li>
-                            <li>Serviney Security</li>
-                            <li>Money back Guarantee</li>
+                            <li>Guaranteed bandwidth</li>
+                            <li>Unlimited Data</li>
+                            <li>Guarantee Speed</li>
+                            <li>24/7 Remote and Onsite Support</li>
+                            <li>Low Latency</li>
+                            <li>Availability of service level agreements</li>
                         </ul>
                     </div>
                 </div>
@@ -117,7 +118,6 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
-                        <span class="pupular-pack">Most popular package</span>
                         <h4>5 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
@@ -156,6 +156,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
+					<span class="pupular-pack">Most popular package</span>
                         <h4>15 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
@@ -199,7 +200,6 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
-                        <span class="pupular-pack">Most popular package</span>
                         <h4>30 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
@@ -382,36 +382,36 @@
                     <div class="faq pb-50" data-animate="fadeInUp" data-delay=".1">
                         <div class="section-title">
                             <h2>Frequently Asked Questions</h2>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p>
+                            <p>THERE ARE NO STUPID QUESTIONS, JUST FREQUENTLY ASKED ONES.</p>
                         </div>
                         <div class="accordion" id="accordionFaq">
                             <div class="single-faq">
                                 <div class="faq-title d-flex align-items-center">
-                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">I can’t access my internet. How do i contact with support center?</h3>
+                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Is Dedicated Internet more reliable than shared?</h3>
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordionFaq">
                                     <div class="faq-answer">
-                                        <p><span>Ans: </span>I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+                                        <p><span>Ans: </span>If your business subscribes to a 100 Mbps shared connection, it will likely receive far less bandwidth during peak business traffic periods. Meanwhile, dedicated internet access provides guaranteed bandwidth. If your business subscribes to a 100 Mbps dedicated connection, then that is the bandwidth you will receive. </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="single-faq">
                                 <div class="faq-title d-flex align-items-center">
-                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">I already paid my bill but still its showing Due. Why is that?</h3>
+                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">How can I change from a shared internet plan to a dedicated plan?</h3>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordionFaq">
                                     <div class="faq-answer">
-                                        <p><span>Ans: </span>Pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                        <p><span>Ans: </span>Yes, you can. You can contact our sales team via mail at contact@wisper.ng, and they will walk you through the process of changing plans.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="single-faq">
                                 <div class="faq-title d-flex align-items-center">
-                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">How can I contact with your emergency higher management?</h3>
+                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Can I manage the data usage of my employees and manage business costs better?</h3>
                                 </div>
                                 <div id="collapseThree" class="collapse" data-parent="#accordionFaq">
                                     <div class="faq-answer">
-                                        <p><span>Ans: </span>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                        <p><span>Ans: </span>Yes, we provide you with a secure login to our customer service platform that you are able to easily manage the allocation and monitoring of data used per user.</p>
                                     </div>
                                 </div>
                             </div>
@@ -432,7 +432,7 @@
     <!-- End of FAQ -->
 
     <!-- Reviews -->
-    <?php require "reviews.php" ?>
+    /* <?php require "reviews.php" ?> */
     <!-- End of Reviews -->
 
      <!-- Footer -->
