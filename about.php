@@ -86,7 +86,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
                         <div class="single-feature-img">
-                            <img src="img/icons/setup.svg" alt="" class="svg">
+                            <img src="img/icons/1.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Truly Unlimited Data</h4>
@@ -97,7 +97,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
                         <div class="single-feature-img">
-                            <img src="img/icons/download.svg" alt="" class="svg">
+                            <img src="img/icons/2.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Network reliability</h4>
