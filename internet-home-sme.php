@@ -58,8 +58,12 @@
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h2>Enjoy Speeds up to <span>155Mbps </span>for your Homes and offices.</h2>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
-                        <p><i>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</i></p>
+                        <p>
+                        Technology and innovation is driving our world today. Having fast and reliable internet allows you to enjoy the best of digitization and explore new solutions for your business. With Wisper, you get this and so much more!
+                        </p>
+                        <p>We offer high speed internet for everyone at home. You can enjoy seamless livestreams, live sports updates, kids’ learning programs, and your favourite online show. Wisper home internet makes learning and entertainment more fun for the entire family. Hop on, and redefine your home internet experience!</p>
+                        <p>As a business owner, sometimes the difference between optimal productivity in your team and missed sales coupled with frustration might be unreliable internet connection. Well, Wisper fixes this! With our high-speed internet and advanced fiber technology, you can enjoy fast, seamless, and reliable internet for your business - whether it’s a hospital, hotel, school, private or public institution.
+                        </p>
                         <ul class="rubik list-unstyled m-0 clearfix">
                             <li>Unlimited Data</li>
                             <li>Reliable Network</li>
@@ -231,7 +235,7 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>All Plans Included</h2>
-                        <p>At Wisper, we have grown to establish strong presence at our 6 various locations (Lagos, Enugu, Owerri, Benin city, Abuja and Port Harcourt).</p>
+                        <p>Wisper launches you to the speed side of things, offering the best internet experience to all our customers. </p>
                     </div>
                 </div>
             </div>
@@ -397,7 +401,7 @@
     <!-- End of FAQ -->
 
     <!-- Reviews -->
-    
+    <?php require "reviews.php" ?>
     <!-- End of Reviews -->
 
      <!-- Footer -->

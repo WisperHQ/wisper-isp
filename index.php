@@ -335,9 +335,6 @@
     </section> -->
     <!-- End of Packages Wrap -->
 
-    <!-- Reviews -->
-    <!-- php require "reviews.php" -->
-    <!-- End of Reviews -->
 
     <!-- FAQ -->
     <!-- <section class="pt-120 pb-70">
@@ -478,6 +475,10 @@
         </div>
     </section>
     <!-- End of carousel -->
+
+    <!-- Reviews -->
+    <?php require "reviews.php" ?>
+    <!-- End of Reviews -->
 
     <!-- Footer -->
     <?php require "footer.php" ?>

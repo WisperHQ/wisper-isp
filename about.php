@@ -122,7 +122,7 @@
     <!-- End of Abut Us -->
 
    <!-- Reviews -->
-   
+   <?php require "reviews.php" ?>
     <!-- End of Reviews -->
 
     <!-- Services -->

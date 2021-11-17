@@ -261,7 +261,7 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>All Plans Included</h2>
-                        <p>At Wisper, we have grown to establish strong presence at our 6 various locations (Lagos, Enugu, Owerri, Benin city, Abuja and Port Harcourt).</p>
+                        <p>Wisper launches you to the speed side of things, offering the best internet experience to all our customers. </p>
                     </div>
                 </div>
             </div>
@@ -427,7 +427,7 @@
     <!-- End of FAQ -->
 
     <!-- Reviews -->
-    
+    <?php require "reviews.php" ?>
     <!-- End of Reviews -->
 
      <!-- Footer -->

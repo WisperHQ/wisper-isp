@@ -55,6 +55,17 @@
     <!-- Services -->
     <section class="pt-120 pb-90">
         <div class="container">
+
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-8 col-md-10">
+                    <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
+                        <h2>What We Offer</h2>
+                        <p>Explore ultra fast internet services from Wisper for your home and business.</p>
+                    </div>
+                </div>
+            </div>
+
+            
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
@@ -102,7 +113,7 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>All Plans Included</h2>
-                        <p>At Wisper, we have grown to establish strong presence at our 6 various locations (Lagos, Enugu, Owerri, Benin city, Abuja and Port Harcourt).</p>
+                        <p>Wisper launches you to the speed side of things, offering the best internet experience to all our customers. </p>
                     </div>
                 </div>
             </div>
@@ -268,7 +279,7 @@
     <!-- End of FAQ -->
 
     <!-- Reviews -->
-    
+    <?php require "reviews.php" ?>
     <!-- End of Reviews -->
 
     <!-- Footer -->
