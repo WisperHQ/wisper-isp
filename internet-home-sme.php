@@ -85,7 +85,7 @@
     <!-- End of Service Details -->
 
     <!-- Packages Wrap -->
-    <section class="pt-120 pb-55">
+    <section class="pt-120">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
@@ -155,7 +155,7 @@
                 </div>
             </div>
             <!-- End of Packages -->
-            
+        </div>   
             
      <!-- Packages Wrap -->
     <section class="pt-120 pb-55">
@@ -230,8 +230,8 @@
             <!-- End of Packages -->
             
             
-            <!-- Packages Includes -->
-            <div class="row justify-content-center">
+             <!-- Packages Includes -->
+             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>All Plans Included</h2>
@@ -354,36 +354,36 @@
                     <div class="faq pb-50" data-animate="fadeInUp" data-delay=".1">
                         <div class="section-title">
                             <h2>Frequently Asked Questions</h2>
-                            <!-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p> -->
+                            <p>THERE ARE NO STUPID QUESTIONS, JUST FREQUENTLY ASKED ONES.</p>
                         </div>
                         <div class="accordion" id="accordionFaq">
                             <div class="single-faq">
                                 <div class="faq-title d-flex align-items-center">
-                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">How do I make payment?</h3>
+                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Is Dedicated Internet more reliable than shared?</h3>
                                 </div>
                                 <div id="collapseOne" class="collapse show" data-parent="#accordionFaq">
                                     <div class="faq-answer">
-                                        <p><span>Ans: </span>You can make payments to Wisper by Cheque, by Cash, online Payment, online transfer, (the bank details shall be provided by the Accounts Department on request).</p>
+                                        <p><span>Ans: </span>If your business subscribes to a 100 Mbps shared connection, it will likely receive far less bandwidth during peak business traffic periods. Meanwhile, dedicated internet access provides guaranteed bandwidth. If your business subscribes to a 100 Mbps dedicated connection, then that is the bandwidth you will receive. </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="single-faq">
                                 <div class="faq-title d-flex align-items-center">
-                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">How many users can concurrently connect to Wisper?</h3>
+                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">How can I change from a shared internet plan to a dedicated plan?</h3>
                                 </div>
                                 <div id="collapseTwo" class="collapse" data-parent="#accordionFaq">
                                     <div class="faq-answer">
-                                        <p><span>Ans: </span>The number of users that can concurrently connects to Wisper will depend on your access plan. Up to 5PC and 20 devices can simultaneously access the internet using lite plan, stream plan, and with Premium plan you select the throughput speeds to fit the needs of your business.</p>
+                                        <p><span>Ans: </span>Yes, you can. You can contact our sales team via mail at contact@wisper.ng, and they will walk you through the process of changing plans.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="single-faq">
                                 <div class="faq-title d-flex align-items-center">
-                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Can I switch between different plans and do I have to pay an extra cost to switch?</h3>
+                                    <h3 class="h5" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Can I manage the data usage of my employees and manage business costs better?</h3>
                                 </div>
                                 <div id="collapseThree" class="collapse" data-parent="#accordionFaq">
                                     <div class="faq-answer">
-                                        <p><span>Ans: </span>You can switch between data plans without incurring any addition cost. Only the cost of the access plan you are migrating to.</p>
+                                        <p><span>Ans: </span>Yes, we provide you with a secure login to our customer service platform that you are able to easily manage the allocation and monitoring of data used per user.</p>
                                     </div>
                                 </div>
                             </div>
@@ -428,5 +428,4 @@
     <script src="assets/js/custom.js"></script>
 </body>
 
-<!-- Mirrored from themelooks.net/demo/serviney/html/preview/internet.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 09:23:17 GMT -->
 </html>

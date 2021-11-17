@@ -49,8 +49,8 @@
         </div>
     </section>
     <!-- End of Brands -->
-<footer class="main-footer">
-        <div class="footer-widgets light-bg border-top pt-80 pb-50">
+    <footer class="main-footer">
+        <div class="footer-widgets light-bg border-top pt-80 pb-50 text-left">
             <div class="container">
                 <div class="row">
                     <!-- Footer Widget -->
@@ -61,7 +61,7 @@
                                     <img src="assets/img/logo.png" width="130" data-rjs="2" alt="VPNet">
                                 </a>
                             </div>
-                            <div class="single-service contact-widget-content">
+                            <div class="contact-widget-content">
                                 <p>Wisper Technologies offer super fast internet for homes and businesses at affordable rates. Our goal is to redefine the internet experience for Nigerians.</p>
                                 <a href="about.php">LEARN MORE</a>
                             </div>

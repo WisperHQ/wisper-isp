@@ -454,5 +454,4 @@
     <script src="assets/js/custom.js"></script>
 </body>
 
-<!-- Mirrored from themelooks.net/demo/serviney/html/preview/internet.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 09:23:17 GMT -->
 </html>

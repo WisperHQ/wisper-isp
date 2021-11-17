@@ -125,52 +125,6 @@
                                     </div>
                                 </div>
                                 <!-- End of Single Review -->
-
-                                <!-- Single Review -->
-                                <div class="swiper-slide">
-                                    <div class="review-text">
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores similique sunt in culpa qui officia deserunt</p>
-                                    </div>
-                                    <div class="review-author d-flex align-items-center">
-                                        <div class="review-author-img">
-                                            <img src="assets/img/authors/female.png" alt="">
-                                        </div>
-                                        <div class="review-author-info">
-                                            <ul class="list-inline">
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                            </ul>
-                                            <span><strong>Marie J. Campbell</strong>  Miami, USA</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End of Single Review -->
-
-                                <!-- Single Review -->
-                                <div class="swiper-slide">
-                                    <div class="review-text">
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores similique sunt in culpa qui officia deserunt</p>
-                                    </div>
-                                    <div class="review-author d-flex align-items-center">
-                                        <div class="review-author-img">
-                                            <img src="assets/img/authors/male.png" alt="">
-                                        </div>
-                                        <div class="review-author-info">
-                                            <ul class="list-inline">
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                            </ul>
-                                            <span><strong>John Doe</strong> Wakanda, Africa</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End of Single Review -->
                             </div>
                         </div>
                         
