@@ -394,7 +394,7 @@
     <!-- End of FAQ -->
 
     <!-- Carousel -->
-    <section class="dark-bg pt-120 pb-120 mt-5">
+    <section class="dark-bg pt-120 pb-120">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">

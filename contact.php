@@ -185,7 +185,7 @@
     <script src="js/scripts.js"></script>
     <script src="js/custom.js"></script>
     <script src="https://smtpjs.com/v3/smtp.js"></script>
-    <script src="js/contact-us.js"></script>
+    <script src="js/subscribe.js"></script>
 </body>
 
 </html>

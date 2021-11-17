@@ -15,18 +15,23 @@ const formSubmissionHandler = async (event) => {
   displaySubmitButtonMsg();
 
   try {
-    const { isSuccess, message } =
-      isValidSubmission(formElement) &&
-      (await sendEmail(formElement, body, emailFrom, emailTo));
+    if (isValidSubmission(formElement)) {
+      const { isSuccess, message } = await sendEmail(
+        formElement,
+        body,
+        emailFrom,
+        emailTo
+      );
 
-    // set the form submission response message
-    displayServerResponseMessage(isSuccess, message);
+      // set the form submission response message
+      displayServerResponseMessage(isSuccess, message);
 
-    if (isSuccess) {
-      removeSubmitButtonMsg();
+      if (isSuccess) {
+        removeSubmitButtonMsg();
 
-      // display success modal
-      document.getElementById("successBtn").click();
+        // display success modal
+        document.getElementById("successBtn").click();
+      }
 
       return formElement.reset();
     }
@@ -40,7 +45,12 @@ const formSubmissionHandler = async (event) => {
 
 // format errors from api response
 const sendEmail = async (formElement, formDataEntries, emailFrom, emailTo) => {
-  const emailSubject = formElement["subject"].value;
+  // check if subscription form
+  const isSubscribeForm = document.getElementsByName("plan")[0];
+
+  const emailSubject = isSubscribeForm
+    ? "Data Plan Subscription Request From WISPER NG"
+    : "Message from WisperISP Contact Form";
 
   let htmlEmailBody = "";
 
@@ -53,13 +63,15 @@ const sendEmail = async (formElement, formDataEntries, emailFrom, emailTo) => {
     SecureToken: "0608d053-abc9-40aa-b255-0129336f245b",
     To: emailTo,
     From: emailFrom,
-    Subject: `Message from WisperISP Contact Form`,
+    Subject: emailSubject,
     Body: htmlEmailBody,
   });
 
   const isSuccess = res === "OK";
 
-  const message = "Thank you for contacting us. We will get back to you.";
+  const message = isSubscribeForm
+    ? "Thank you for subscribing to our plan, our team will reach out to you with more information."
+    : "Thank you for contacting us. We will get back to you.";
 
   return {
     isSuccess,
@@ -109,9 +121,27 @@ const removeSubmitButtonMsg = () => {
   btn.disabled = false;
 };
 
-const isValidSubmission = (formElement) =>
+const isValidSubmission = (formElement) => {
+  // check if subscription form
+  const isSubscribeForm = document.getElementsByName("plan")[0];
+
+  if (isSubscribeForm) {
+    return isValidSubscriptionSubmission(formElement);
+  }
+  return (
+    formElement["name"].checkValidity() &&
+    formElement["message"].checkValidity() &&
+    formElement["email"].checkValidity()
+  );
+};
+
+const isValidSubscriptionSubmission = (formElement) =>
   formElement["name"].checkValidity() &&
-  formElement["message"].checkValidity() &&
+  formElement["phone"].checkValidity() &&
+  formElement["state"].checkValidity() &&
+  formElement["lga"].checkValidity() &&
+  formElement["city"].checkValidity() &&
+  formElement["plan"].checkValidity() &&
   formElement["email"].checkValidity();
 
 // main program

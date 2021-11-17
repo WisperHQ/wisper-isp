@@ -217,7 +217,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
-                        <h4>40 Mbpa</h4>
+                        <h4>40 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
@@ -236,7 +236,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
-                        <h4>50 Mbpa</h4>
+                        <h4>50 Mbps</h4>
                         <span>30 Days Validity</span>
                         <hr>
                         <ul class="list-unstyled">
