@@ -1,4 +1,4 @@
-<section class="theme-bg-overlay bg-img-xs-none pt-120 pb-120" data-bg-img="img/review-bg.png" data-rjs="2">
+<section class="theme-bg-overlay bg-img-xs-none pt-120 pb-120" data-bg-img="assets/img/review-bg.png" data-rjs="2">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
@@ -22,7 +22,7 @@ Too good to be true, right? Well, here's what some of our subscribers have to sa
                                     </div>
                                     <div class="review-author d-flex align-items-center">
                                         <div class="review-author-img">
-                                            <img src="img/authors/female.png" alt="">
+                                            <img src="assets/img/authors/female.png" alt="">
                                         </div>
                                         <div class="review-author-info">
                                             <ul class="list-inline">
@@ -45,7 +45,7 @@ Too good to be true, right? Well, here's what some of our subscribers have to sa
                                     </div>
                                     <div class="review-author d-flex align-items-center">
                                         <div class="review-author-img">
-                                            <img src="img/authors/male.png" alt="">
+                                            <img src="assets/img/authors/male.png" alt="">
                                         </div>
                                         <div class="review-author-info">
                                             <ul class="list-inline">
@@ -68,7 +68,7 @@ Too good to be true, right? Well, here's what some of our subscribers have to sa
                                     </div>
                                     <div class="review-author d-flex align-items-center">
                                         <div class="review-author-img">
-                                            <img src="img/authors/female.png" alt="">
+                                            <img src="assets/img/authors/female.png" alt="">
                                         </div>
                                         <div class="review-author-info">
                                             <ul class="list-inline">
@@ -91,7 +91,7 @@ Too good to be true, right? Well, here's what some of our subscribers have to sa
                                     </div>
                                     <div class="review-author d-flex align-items-center">
                                         <div class="review-author-img">
-                                            <img src="img/authors/male.png" alt="">
+                                            <img src="assets/img/authors/male.png" alt="">
                                         </div>
                                         <div class="review-author-info">
                                             <ul class="list-inline">
@@ -111,10 +111,10 @@ Too good to be true, right? Well, here's what some of our subscribers have to sa
                         
                         <!-- Arrows -->
                         <div class="swiper-button-next next-review">
-                            <img src="img/icons/right-arrow.svg" alt="" class="svg">
+                            <img src="assets/img/icons/right-arrow.svg" alt="" class="svg">
                         </div>
                         <div class="swiper-button-prev prev-review">
-                            <img src="img/icons/left-arrow.svg" alt="" class="svg">
+                            <img src="assets/img/icons/left-arrow.svg" alt="" class="svg">
                         </div>
                     </div>
                     <!-- End of Review Slider -->

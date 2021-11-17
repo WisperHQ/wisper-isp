@@ -11,17 +11,17 @@
     <title>Internet For Home and SME | Unlimited Internet for All</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
 
     <!-- CSS Files -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500,700%7CSource+Sans+Pro:300i,400,400i,600,700">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="plugins/swiper/swiper.min.css">
-    <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/plugins/swiper/swiper.min.css">
+    <link rel="stylesheet" href="assets/plugins/magnific-popup/magnific-popup.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
 </head>
 
 <body>
@@ -33,7 +33,7 @@
     <!-- End of Main header -->
 
     <!-- Page Title -->
-    <section class="page-title-wrap" data-bg-img="img/hills.jpg" data-rjs="2">
+    <section class="page-title-wrap" data-bg-img="assets/img/hills.jpg" data-rjs="2">
         <div class="container">
             <div class="row">
                 <div class="col">
@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="service-img text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/home.png" alt="" data-rjs="2">
+                        <img src="assets/img/home.png" alt="" data-rjs="2">
                     </div>
                 </div>
             </div>
@@ -240,7 +240,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".05">
                         <div class="single-feature-img">
-                            <img src="img/icons/9.png" alt="" class="png">
+                            <img src="assets/img/icons/9.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                         <h4>Wisper ZERO Capping/ 4G Unlimited data Consumption</h4>
@@ -251,7 +251,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".2">
                         <div class="single-feature-img">
-                            <img src="img/icons/10.png" alt="" class="png">
+                            <img src="assets/img/icons/10.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Hybrid Backbone Design with Multiple Feed Redundancy</h4>
@@ -262,7 +262,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".35">
                         <div class="single-feature-img">
-                            <img src="img/icons/8.png" alt="" class="png">
+                            <img src="assets/img/icons/8.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>75% High-Rate redundancy</h4>
@@ -273,7 +273,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".5">
                         <div class="single-feature-img">
-                            <img src="img/icons/12.png" alt="" class="png">
+                            <img src="assets/img/icons/12.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Bandwidth Management system</h4>
@@ -284,7 +284,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
                         <div class="single-feature-img">
-                            <img src="img/icons/14.png" alt="" class="png">
+                            <img src="assets/img/icons/14.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Network Operations Center offering full technical support   </h4>
@@ -295,7 +295,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
                         <div class="single-feature-img">
-                            <img src="img/icons/15.png" alt="" class="png">
+                            <img src="assets/img/icons/15.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Flexibility and affordable prices at 20% cheaper than market price</h4>
@@ -306,7 +306,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
                         <div class="single-feature-img">
-                            <img src="img/icons/16.png" alt="" class="png">
+                            <img src="assets/img/icons/16.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Outstanding Customer Support ensuring excellent after sales customer satisfaction.</h4>
@@ -317,7 +317,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
                         <div class="single-feature-img">
-                            <img src="img/icons/13.png" alt="" class="png">
+                            <img src="assets/img/icons/13.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Network Operations Center offering full technical support   </h4>
@@ -328,7 +328,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".8">
                         <div class="single-feature-img">
-                            <img src="img/icons/10.png" alt="" class="png">
+                            <img src="assets/img/icons/10.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>24/7 Dedicated technical support</h4>
@@ -388,7 +388,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="popup-video mb-50" data-animate="fadeInUp" data-delay=".5">
-                        <img src="img/video-thumb.jpg" data-rjs="2" alt="">
+                        <img src="assets/img/video-thumb.jpg" data-rjs="2" alt="">
                     </div>
                 </div>
             </div>
@@ -410,18 +410,18 @@
     </div>
 
     <!-- JS Files -->
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="plugins/waypoints/jquery.waypoints.min.js"></script>
-    <script src="plugins/waypoints/sticky.min.js"></script>
-    <script src="plugins/swiper/swiper.min.js"></script>
-    <script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="plugins/parsley/parsley.min.js"></script>
-    <script src="plugins/retinajs/retina.min.js"></script>
-    <script src="plugins/isotope/isotope.pkgd.min.js"></script>
-    <script src="js/menu.min.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/plugins/waypoints/jquery.waypoints.min.js"></script>
+    <script src="assets/plugins/waypoints/sticky.min.js"></script>
+    <script src="assets/plugins/swiper/swiper.min.js"></script>
+    <script src="assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/plugins/parsley/parsley.min.js"></script>
+    <script src="assets/plugins/retinaassets/js/retina.min.js"></script>
+    <script src="assets/plugins/isotope/isotope.pkgd.min.js"></script>
+    <script src="assets/js/menu.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+    <script src="assets/js/custom.js"></script>
 </body>
 
 <!-- Mirrored from themelooks.net/demo/serviney/html/preview/internet.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 09:23:17 GMT -->

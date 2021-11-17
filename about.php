@@ -11,19 +11,19 @@
     <title>About Us</title>
  
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
 
     <!-- CSS Files -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500,700%7CSource+Sans+Pro:300i,400,400i,600,700">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="plugins/swiper/swiper.min.css">
-    <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/plugins/swiper/swiper.min.css">
+    <link rel="stylesheet" href="assets/plugins/magnific-popup/magnific-popup.min.css">
     
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
     
-    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
 </head>
 
 <body>
@@ -35,7 +35,7 @@
     <!-- End of Main header -->
 
     <!-- Page Title -->
-    <section class="page-title-wrap" data-bg-img="img/hills.jpg" data-rjs="2">
+    <section class="page-title-wrap" data-bg-img="assets/img/hills.jpg" data-rjs="2">
         <div class="container">
             <div class="row">
                 <div class="col">
@@ -58,7 +58,7 @@
             <div class="row align-items-center pb-4">
                 <div class="col-lg-6 d-none d-lg-block">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/number-one.png" alt="" data-rjs="2">
+                        <img src="assets/img/number-one.png" alt="" data-rjs="2">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -86,7 +86,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
                         <div class="single-feature-img">
-                            <img src="img/icons/1.png" alt="" class="png">
+                            <img src="assets/img/icons/1.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Truly Unlimited Data</h4>
@@ -97,7 +97,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
                         <div class="single-feature-img">
-                            <img src="img/icons/2.png" alt="" class="png">
+                            <img src="assets/img/icons/2.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Network reliability</h4>
@@ -108,7 +108,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                         <div class="single-feature-img">
-                            <img src="img/icons/24.png" alt="" class="png">
+                            <img src="assets/img/icons/24.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>24/7 Customer Support</h4>
@@ -139,7 +139,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/4.png" alt="">
+                        <img src="assets/img/team/4.png" alt="">
                         <h4 class="pt-4">CHISOM ALAOMA</h4>
                         <span class="d-block mb-2">Director</span>
                         <a href="https://twitter.com/laoma__?s=11" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -148,7 +148,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/3.png" alt="">
+                        <img src="assets/img/team/3.png" alt="">
                         <h4 class="pt-4">EBUKA ARINZE</h4>
                         <span class="d-block mb-2">Head Of Operations</span>
                         <a href="https://twitter.com/Ebuka_arinze" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -157,7 +157,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/8.png" alt="">
+                        <img src="assets/img/team/8.png" alt="">
                         <h4 class="pt-4">RAPHAEL A. UFUOMA</h4>
                         <span class="d-block mb-2">Network Engineer</span>
                         <a href="https://twitter.com/deejay_raphy?s=11" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -166,7 +166,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/5.png" alt="">
+                        <img src="assets/img/team/5.png" alt="">
                         <h4 class="pt-4">EFOSA JEFFREY</h4>
                         <span class="d-block mb-2">Software Engineer</span>
                         <a href="https://twitter.com/efosa_j" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -175,7 +175,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/7.png" alt="">
+                        <img src="assets/img/team/7.png" alt="">
                         <h4 class="pt-4">NWAOBI DANIEL</h4>
                         <span class="d-block mb-2">Graphics Designer</span>
                         <a href="https://twitter.com/0x00CCSec" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -184,7 +184,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/6.png" alt="">
+                        <img src="assets/img/team/6.png" alt="">
                         <h4 class="pt-4">OMORUYI NATHANIEL</h4>
                         <span class="d-block mb-2">Sales Personnel</span>
                         <a href="https://www.linkedin.com/in/jeffrey-okooboh-091a47191/" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -193,7 +193,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-service single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/team/9.png" alt="">
+                        <img src="assets/img/team/9.png" alt="">
                         <h4 class="pt-4">OMOTOYOSI AYANLEYE</h4>
                         <span class="d-block mb-2">Human Resource Manager</span>
                         <a href="https://twitter.com/M_toyosi" class="mr-2" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -215,19 +215,19 @@
     </div>
 
     <!-- JS Files -->
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="plugins/waypoints/jquery.waypoints.min.js"></script>
-    <script src="plugins/waypoints/sticky.min.js"></script>
-    <script src="plugins/swiper/swiper.min.js"></script>
-    <script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="plugins/parsley/parsley.min.js"></script>
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/plugins/waypoints/jquery.waypoints.min.js"></script>
+    <script src="assets/plugins/waypoints/sticky.min.js"></script>
+    <script src="assets/plugins/swiper/swiper.min.js"></script>
+    <script src="assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/plugins/parsley/parsley.min.js"></script>
     
-    <script src="plugins/retinajs/retina.min.js"></script>
-    <script src="plugins/isotope/isotope.pkgd.min.js"></script>
-    <script src="js/menu.min.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="assets/plugins/retinaassets/js/retina.min.js"></script>
+    <script src="assets/plugins/isotope/isotope.pkgd.min.js"></script>
+    <script src="assets/js/menu.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+    <script src="assets/js/custom.js"></script>
 </body>
 
 <!-- Mirrored from themelooks.net/demo/Wisper/html/preview/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Oct 2021 09:22:44 GMT -->

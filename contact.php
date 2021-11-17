@@ -11,19 +11,19 @@
     <title>Contact Us</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
 
     <!-- CSS Files -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500,700%7CSource+Sans+Pro:300i,400,400i,600,700">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="plugins/swiper/swiper.min.css">
-    <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/plugins/swiper/swiper.min.css">
+    <link rel="stylesheet" href="assets/plugins/magnific-popup/magnific-popup.min.css">
     
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
     
-    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
 </head>
 
 <body>
@@ -35,7 +35,7 @@
     <!-- End of Main header -->
 
     <!-- Page Title -->
-    <section class="page-title-wrap" data-bg-img="img/hills.jpg" data-rjs="2">
+    <section class="page-title-wrap" data-bg-img="assets/img/hills.jpg" data-rjs="2">
         <div class="container">
             <div class="row">
                 <div class="col">
@@ -146,7 +146,7 @@
                                 <h5 id="success" class="text-success" role="alert">
 
                                 </h5>
-                                <img width="150" class="pt-3" src="img/check.jpg" alt="success">
+                                <img width="150" class="pt-3" src="assets/img/check.jpg" alt="success">
                                 <div class="d-grid gap-2 pt-4">
                                 <button class="btn btn-lg btn-block btn-success" data-dismiss="modal" type="button"><b>OK</b></button>
                                 </div>
@@ -171,21 +171,21 @@
     </div>
 
     <!-- JS Files -->
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="plugins/waypoints/jquery.waypoints.min.js"></script>
-    <script src="plugins/waypoints/sticky.min.js"></script>
-    <script src="plugins/swiper/swiper.min.js"></script>
-    <script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="plugins/parsley/parsley.min.js"></script>
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/plugins/waypoints/jquery.waypoints.min.js"></script>
+    <script src="assets/plugins/waypoints/sticky.min.js"></script>
+    <script src="assets/plugins/swiper/swiper.min.js"></script>
+    <script src="assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/plugins/parsley/parsley.min.js"></script>
     
-    <script src="plugins/retinajs/retina.min.js"></script>
-    <script src="plugins/isotope/isotope.pkgd.min.js"></script>
-    <script src="js/menu.min.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="assets/plugins/retinaassets/js/retina.min.js"></script>
+    <script src="assets/plugins/isotope/isotope.pkgd.min.js"></script>
+    <script src="assets/js/menu.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+    <script src="assets/js/custom.js"></script>
     <script src="https://smtpjs.com/v3/smtp.js"></script>
-    <script src="js/subscribe.js"></script>
+    <script src="assets/js/subscribe.js"></script>
 </body>
 
 </html>

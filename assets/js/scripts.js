@@ -383,7 +383,7 @@ We may release future updates so it will overwrite this file. it's better and sa
             map: map,
             animation: google.maps.Animation.DROP,
             draggable: true,
-            icon: "img/marker.png",
+            icon: "assets/img/marker.png",
           });
         });
       };

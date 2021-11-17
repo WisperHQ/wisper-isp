@@ -37,12 +37,12 @@
             <div class="row">
                 <div class="col">
                     <ul class="brands list-unstyled d-flex flex-wrap align-items-center justify-content-center justify-content-md-between mb-0">
-                        <li data-animate="fadeInUp" data-delay=".05"><img src="img/brands/brand1.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".2"><img src="img/brands/brand2.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".35"><img src="img/brands/brand3.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".5"><img src="img/brands/brand4.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".65"><img src="img/brands/brand5.png" alt=""></li>
-                        <li data-animate="fadeInUp" data-delay=".8"><img src="img/brands/brand6.png" alt=""></li>
+                        <li data-animate="fadeInUp" data-delay=".05"><img src="assets/img/brands/brand1.png" alt=""></li>
+                        <li data-animate="fadeInUp" data-delay=".2"><img src="assets/img/brands/brand2.png" alt=""></li>
+                        <li data-animate="fadeInUp" data-delay=".35"><img src="assets/img/brands/brand3.png" alt=""></li>
+                        <li data-animate="fadeInUp" data-delay=".5"><img src="assets/img/brands/brand4.png" alt=""></li>
+                        <li data-animate="fadeInUp" data-delay=".65"><img src="assets/img/brands/brand5.png" alt=""></li>
+                        <li data-animate="fadeInUp" data-delay=".8"><img src="assets/img/brands/brand6.png" alt=""></li>
                     </ul>
                 </div>
             </div>
@@ -58,7 +58,7 @@
                         <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".1">
                             <div class="logo pb-3">
                                 <a href="index.php">
-                                    <img src="img/logo.png" width="130" data-rjs="2" alt="VPNet">
+                                    <img src="assets/img/logo.png" width="130" data-rjs="2" alt="VPNet">
                                 </a>
                             </div>
                             <div class="single-service contact-widget-content">

@@ -11,19 +11,19 @@
     <title>Home</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
 
     <!-- CSS Files --> 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500,700%7CSource+Sans+Pro:300i,400,400i,600,700">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="plugins/swiper/swiper.min.css">
-    <link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/plugins/swiper/swiper.min.css">
+    <link rel="stylesheet" href="assets/plugins/magnific-popup/magnific-popup.min.css">
     
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
     
-    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
 </head>
 
 <body>
@@ -40,7 +40,7 @@
             <div class="swiper-wrapper">
                 <!-- Single slide -->
                 <div class="swiper-slide position-relative">
-                    <img src="img/slide1.jpg" data-rjs="2" alt="">
+                    <img src="assets/img/slide1.jpg" data-rjs="2" alt="">
                     <div class="slide-content container">
                         <div class="row align-items-center">
                             <div class="col-xl-6 col-lg-8">
@@ -57,7 +57,7 @@
                 
                 <!-- Single slide -->
                 <div class="swiper-slide position-relative">
-                    <img src="img/slide2.jpg" data-rjs="2" alt="">
+                    <img src="assets/img/slide2.jpg" data-rjs="2" alt="">
                     <div class="slide-content container">
                         <div class="row align-items-center">
                             <div class=" col-xl-6 col-lg-8">
@@ -84,7 +84,7 @@
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6 d-none d-lg-block">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/number-one.png" alt="" data-rjs="2">
+                        <img src="assets/img/number-one.png" alt="" data-rjs="2">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -99,7 +99,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
                         <div class="single-feature-img">
-                            <img src="img/icons/1.png" alt="" class="png">
+                            <img src="assets/img/icons/1.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Truly Unlimited Data</h4>
@@ -110,7 +110,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
                         <div class="single-feature-img">
-                            <img src="img/icons/2.png" alt="" class="png">
+                            <img src="assets/img/icons/2.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>Network reliability.</h4>
@@ -121,7 +121,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                         <div class="single-feature-img">
-                            <img src="img/icons/24.png" alt="" class="png">
+                            <img src="assets/img/icons/24.png" alt="" class="png">
                         </div>
                         <div class="single-feature-content">
                             <h4>24/7 Customer Support</h4>
@@ -135,7 +135,7 @@
     <!-- End of About Us -->
 
     <!-- Services -->
-    <section class="theme-bg-overlay bg-img-md-none pt-120 pb-90" data-bg-img="img/review-bg.png" data-rjs="2">
+    <section class="theme-bg-overlay bg-img-md-none pt-120 pb-90" data-bg-img="assets/img/review-bg.png" data-rjs="2">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
@@ -148,7 +148,7 @@
             <div class="row text-white">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img  src="img/icons/3.png" alt="" class="png">
+                        <img  src="assets/img/icons/3.png" alt="" class="png">
                         <h4 class="text-white mt-3">Internet For Remote</h4>
                         <p>Bring your remote teams closer together, improve productivity, and get more done in less time with our ultra-fast internet service.</p>
                         <a class="text-white" href="internet-remote-work.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -156,7 +156,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/icons/4.png" alt="" class="png">
+                        <img src="assets/img/icons/4.png" alt="" class="png">
                         <h4 class="text-white mt-3">Wisper Mobile</h4>
                         <p>Stay connected with family and loved ones, and never miss out on live updates with Wisper Mobile packages for your smartphones!</p>
                         <a class="text-white" href="internet-wisper-mobile.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -164,7 +164,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
-                        <img src="img/icons/5.png" alt="" class="png">
+                        <img src="assets/img/icons/5.png" alt="" class="png">
                         <h4 class="text-white mt-3">Internet for Home and SME</h4>
                         <p>For as low as  ₦6,600/month, you can enjoy internet connection for your homes for streaming movies, and connecting your family to the internet.</p>
                         <a class="text-white" href="internet-home-sme.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -172,7 +172,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
-                        <img src="img/icons/6.png" alt="" class="png">
+                        <img src="assets/img/icons/6.png" alt="" class="png">
                         <h4 class="text-white mt-3">Internet For Corporate</h4>
                         <p>We offer dedicated internet services for all Corporate businesses, with guaranteed high speed and 99.9% SLA on our services.</p>
                         <a class="text-white" href="internet-corporate.php">Learn More <i class="fa fa-angle-right"></i></a>
@@ -385,7 +385,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="popup-video mb-50" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/video-thumb.jpg" data-rjs="2" alt="">
+                        <img src="assets/img/video-thumb.jpg" data-rjs="2" alt="">
                     </div>
                 </div>
             </div>
@@ -411,9 +411,9 @@
                             <div class="swiper-wrapper text-center">
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
-                                    <img src="img/posts/streaming.png" data-rjs="2" alt="">
+                                    <img src="assets/img/posts/streaming.png" data-rjs="2" alt="">
                                    <!--  <ul class="list-unstyled d-flex align-items-center">
-                                        <li><img src="img/authors/author1.jpg" alt=""></li>
+                                        <li><img src="assets/img/authors/author1.jpg" alt=""></li>
                                         <li>by <a href="#">Zane M. Frye</a></li>
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
@@ -422,9 +422,9 @@
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
-                                     <img src="img/posts/gaming.png" data-rjs="2" alt="">
+                                     <img src="assets/img/posts/gaming.png" data-rjs="2" alt="">
                                    <!-- <ul class="list-unstyled d-flex align-items-center">
-                                        <li><img src="img/authors/male.png" alt=""></li>
+                                        <li><img src="assets/img/authors/male.png" alt=""></li>
                                         <li>by <a href="#">Zane M. Frye</a></li>
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
@@ -433,9 +433,9 @@
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
-                                     <img src="img/posts/meeting.png" data-rjs="2" alt="">
+                                     <img src="assets/img/posts/meeting.png" data-rjs="2" alt="">
                                   <!--  <ul class="list-unstyled d-flex align-items-center">
-                                        <li><img src="img/authors/female.png" alt=""></li>
+                                        <li><img src="assets/img/authors/female.png" alt=""></li>
                                         <li>by <a href="#">Zane M. Frye</a></li>
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
@@ -444,9 +444,9 @@
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
-                                    <img src="img/posts/remotework.png" data-rjs="2" alt="">
+                                    <img src="assets/img/posts/remotework.png" data-rjs="2" alt="">
                                     <!-- <ul class="list-unstyled d-flex align-items-center">
-                                        <li><img src="img/authors/author1.jpg" alt=""></li>
+                                        <li><img src="assets/img/authors/author1.jpg" alt=""></li>
                                         <li>by <a href="#">Zane M. Frye</a></li>
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
@@ -455,9 +455,9 @@
                                 </div>
                                 <div class="single-news swiper-slide">
                                     <!-- <a class="tip" href="#">News</a> -->
-                                     <img src="img/posts/learning.png" data-rjs="2" alt="">
+                                     <img src="assets/img/posts/learning.png" data-rjs="2" alt="">
                                   <!--  <ul class="list-unstyled d-flex align-items-center">
-                                        <li><img src="img/authors/female.png" alt=""></li>
+                                        <li><img src="assets/img/authors/female.png" alt=""></li>
                                         <li>by <a href="#">Zane M. Frye</a></li>
                                         <li><a href="#">January 19, 2018</a></li>
                                     </ul> -->
@@ -467,10 +467,10 @@
                             </div>
                         </div>
                         <div class="swiper-button-next next-news">
-                            <img src="img/icons/right-arrow.svg" alt="" class="svg">
+                            <img src="assets/img/icons/right-arrow.svg" alt="" class="svg">
                         </div>
                         <div class="swiper-button-prev prev-news">
-                            <img src="img/icons/left-arrow.svg" alt="" class="svg">
+                            <img src="assets/img/icons/left-arrow.svg" alt="" class="svg">
                         </div>
                     </div>
                 </div>
@@ -489,18 +489,18 @@
     </div>
 
     <!-- JS Files -->
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="plugins/waypoints/jquery.waypoints.min.js"></script>
-    <script src="plugins/waypoints/sticky.min.js"></script>
-    <script src="plugins/swiper/swiper.min.js"></script>
-    <script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="plugins/parsley/parsley.min.js"></script>
-    <script src="plugins/retinajs/retina.min.js"></script>
-    <script src="plugins/isotope/isotope.pkgd.min.js"></script>
-    <script src="js/menu.min.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/plugins/waypoints/jquery.waypoints.min.js"></script>
+    <script src="assets/plugins/waypoints/sticky.min.js"></script>
+    <script src="assets/plugins/swiper/swiper.min.js"></script>
+    <script src="assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/plugins/parsley/parsley.min.js"></script>
+    <script src="assets/plugins/retinaassets/js/retina.min.js"></script>
+    <script src="assets/plugins/isotope/isotope.pkgd.min.js"></script>
+    <script src="assets/js/menu.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+    <script src="assets/js/custom.js"></script>
 </body>
 
 </html>

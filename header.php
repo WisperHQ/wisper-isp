@@ -16,7 +16,7 @@
                         <!-- Logo -->
                         <div class="logo">
                             <a href="index.php">
-                                <img src="img/logo.png" width="100" data-rjs="2" alt="VPNet">
+                                <img src="assets/img/logo.png" width="100" data-rjs="2" alt="VPNet">
                             </a>
                         </div>
                     </div>
